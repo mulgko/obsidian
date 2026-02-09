@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6803f4806f40d494",
+            "id": "dc22e4836a2655a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Phase 0 [개발 환경 & 개념]"
-            }
-          },
-          {
-            "id": "dc22e4836a2655a3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Create Blog/images/Obslog.png"
-              },
-              "icon": "lucide-image",
-              "title": "Obslog"
             }
           }
         ]
@@ -192,16 +180,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6803f4806f40d494",
+  "active": "dc22e4836a2655a3",
   "lastOpenFiles": [
-    "Pasted image 20260209185914.png",
-    "Create Blog/Create Blog.md",
+    "Pasted image 20260209190137.png",
     "Create Blog/images/Obslog.png",
+    "Create Blog/Create Blog.md",
     "Create Blog/Phase 0 [개발 환경 & 개념].md",
-    "Create Blog/images",
-    "Obslog.png",
+    "Pasted image 20260209185914.png",
     "Pasted image 20260209185401.png",
     "Pasted image 20260209185355.png",
+    "Create Blog/images",
+    "Obslog.png",
     "Create Blog",
     "obsidian + git.md",
     "무제.base",
