@@ -1,7 +1,5 @@
 
-- 주제: [[Npm]]
-
-- 참고: [[Create Blog]]
+- 참고: [[npm]]
 
 - 태그: #npm #library #metadata
 
