@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Stack"
             }
+          },
+          {
+            "id": "708897364525a470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Create Blog/npm/gray-matter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gray-matter"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Create Blog/Stack.md",
+                "file": "Create Blog/npm/gray-matter.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Stack 의 백링크"
+              "title": "gray-matter 의 백링크"
             }
           },
           {
@@ -193,23 +207,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "759ad91bf9158723",
+  "active": "708897364525a470",
   "lastOpenFiles": [
-    "Create Blog/Phase 0 [개발 환경 & 개념].md",
     "Create Blog/Stack.md",
-    "무제.md",
+    "Create Blog/npm/gray-matter.md",
+    "Create Blog/npm",
+    "Create Blog/Phase 0 [개발 환경 & 개념].md",
     "Create Blog/Create Blog.md",
-    "README.md",
     "obsidian + git.md",
+    "README.md",
+    "Pasted image 20260209190137.png",
+    "Obslog.png",
+    "Create Blog/images/Obslog.png",
     "무제.canvas",
     "무제.base",
-    "Create Blog/images/Obslog.png",
-    "Pasted image 20260209190137.png",
     "Pasted image 20260209185914.png",
     "Pasted image 20260209185401.png",
     "Pasted image 20260209185355.png",
     "Create Blog/images",
-    "Obslog.png",
     "Create Blog",
     "무제 1.base",
     "second.md",
