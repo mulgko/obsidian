@@ -1,4 +1,9 @@
 
+- 주제: [[Npm]]
+
+- 참고: [[Create Blog]]
+
+- 태그: #npm #library #metadata
 
 gray-matter는 마크다운 파일 내에서 생성된 메타데이터를 추출해 자바스크립트 객체로 변환해주는 라이브러리다. 
 
