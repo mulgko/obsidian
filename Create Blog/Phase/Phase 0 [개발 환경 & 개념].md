@@ -1,8 +1,7 @@
 
-- 주제: [[Create Blog]]
+- 주제: [[Phase]] 
 
-- 태그: #phase #setting 
-
+- 태그: #setting #phase 
 
 
 먼저 그림을 설계

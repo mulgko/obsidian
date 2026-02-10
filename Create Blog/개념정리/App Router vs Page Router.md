@@ -2,9 +2,7 @@
 
 - 주제: [[개념정리]]
 
-- 참고: [[Create Blog]]
-
-- 태그: #router #appRouter #pageRouter #component #next 
+- 태그: #router #appRouter #pageRouter #component #next #개념 
 
 |         | AppRouter            | PageRouter          |
 | :------ | :------------------- | :------------------ |
