@@ -2,20 +2,48 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Create Blog\" path:\"Create Blog\"  ",
+      "query": "tag:#개념  ",
       "color": {
         "a": 1,
-        "rgb": 16711880
+        "rgb": 5424639
+      }
+    },
+    {
+      "query": "tag:#project",
+      "color": {
+        "a": 1,
+        "rgb": 16711803
+      }
+    },
+    {
+      "query": "tag:#phase  ",
+      "color": {
+        "a": 1,
+        "rgb": 16737572
+      }
+    },
+    {
+      "query": "tag:#npm  ",
+      "color": {
+        "a": 1,
+        "rgb": 16770140
+      }
+    },
+    {
+      "query": "tag:#stack  ",
+      "color": {
+        "a": 1,
+        "rgb": 8400128
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.36859809027778,
@@ -24,7 +52,7 @@
   "centerStrength": 0.445442708333333,
   "repelStrength": 13.0789930555556,
   "linkStrength": 0.776519097222222,
-  "linkDistance": 67,
-  "scale": 1.0765161214726366,
+  "linkDistance": 172,
+  "scale": 1.1184345155205904,
   "close": true
 }

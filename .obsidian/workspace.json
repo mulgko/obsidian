@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "56c8551a129c736c",
+        "id": "461da9b83c0e6a8c",
         "type": "tabs",
         "children": [
           {
-            "id": "678c11015c42c1bc",
+            "id": "78bffe6cf5accdaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create Blog/Phase 0 [개발 환경 & 개념].md",
+                "file": "Create Blog/개념정리/Rendering/TTFB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase 0 [개발 환경 & 개념]"
+              "title": "TTFB"
+            }
+          },
+          {
+            "id": "e329357b41734065",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Create Blog/개념정리/Rendering/Next.js Rendering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Next.js Rendering"
+            }
+          },
+          {
+            "id": "bc58c2bb7a73d8b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Create Blog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Next.js AppRouter에서의 작동방식"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ssr",
+                "query": "tag:#next",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Create Blog/Phase 0 [개발 환경 & 개념].md",
+                "file": "Create Blog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Phase 0 [개발 환경 & 개념] 의 백링크"
+              "title": "Next.js AppRouter에서의 작동방식 의 백링크"
             }
           },
           {
@@ -113,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Create Blog/Phase 0 [개발 환경 & 개념].md",
+                "file": "Create Blog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Phase 0 [개발 환경 & 개념] 의 나가는 링크"
+              "title": "Next.js AppRouter에서의 작동방식 의 나가는 링크"
             }
           },
           {
@@ -142,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Create Blog/Phase 0 [개발 환경 & 개념].md",
+                "file": "Create Blog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Phase 0 [개발 환경 & 개념] 의 개요"
+              "title": "Next.js AppRouter에서의 작동방식 의 개요"
             }
           },
           {
@@ -191,28 +220,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "678c11015c42c1bc",
+  "active": "bc58c2bb7a73d8b3",
   "lastOpenFiles": [
-    "Create Blog/Stack.md",
+    "Create Blog/개념정리/Rendering/Next.js Rendering.md",
+    "Create Blog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
+    "Create Blog/개념정리/Rendering/CSR.md",
+    "Create Blog/개념정리/Rendering/SSG.md",
+    "Create Blog/개념정리/Rendering/Hydration.md",
+    "Create Blog/개념정리/Rendering/ISR.md",
+    "Create Blog/개념정리/Rendering/TTFB.md",
+    "Create Blog/개념정리/Rendering/SSR.md",
+    "Create Blog/Phase/Phase 1.md",
+    "Create Blog/개념정리/Route Group.md",
+    "Create Blog/개념정리/App Router vs Page Router.md",
     "Create Blog/개념정리/개념정리.md",
+    "Create Blog/Phase/Phase 0 [개발 환경 & 개념].md",
+    "Create Blog/Phase/Phase.md",
+    "Create Blog/Stack.md",
+    "Create Blog/개념정리/Server Component vs Client Component.md",
+    "obsidian + git.md",
     "Create Blog/npm/gray-matter.md",
     "Create Blog/npm/npm.md",
-    "Create Blog/개념정리/App Router vs Page Router.md",
-    "Create Blog/개념정리/Rendering/Next.js Rendering.md",
-    "Create Blog/개념정리/Rendering/SSR.md",
     "Create Blog/Create Blog.md",
-    "Create Blog/개념정리/Server Component vs Client Component.md",
-    "Create Blog/개념정리/Rendering/SSG.md",
-    "Create Blog/개념정리/Rendering/CSR.md",
+    "Create Blog/images/Obslog.png",
+    "Create Blog/Phase",
     "무제",
     "Create Blog/개념정리/Router",
     "무제.base",
     "Create Blog/개념정리/Rendering",
-    "Create Blog/Phase 0 [개발 환경 & 개념].md",
-    "Create Blog/images/Obslog.png",
     "Create Blog/개념정리",
     "Create Blog/npm",
-    "obsidian + git.md",
     "README.md",
     "Pasted image 20260209190137.png",
     "Obslog.png",

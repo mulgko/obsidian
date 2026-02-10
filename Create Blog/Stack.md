@@ -1,5 +1,7 @@
 
-- 주제: [[Create Blog]]
+- 주제: [[Stack]]
+
+- 참고: [[Create Blog]]
 
 - 태그: #stack
 

@@ -1,9 +1,7 @@
 
 - 주제: [[개념정리]]
 
-- 참고 [[Create Blog]]
-
-- 태그: #serverComponent #clientComponent #next #useState #useEffect #onClick #onChange
+- 태그: #serverComponent #clientComponent #next #useState #useEffect #onClick #onChange #개념 
 
 
 |            | Server                        | Client                  |
@@ -15,7 +13,7 @@
 | React Hook | 사용 불가 (useState, useEffect 등) | 사용 가능                   |
 | 이벤트 리스너    | 사용 불가 (onClick, onChange 등)   | 사용 가능                   |
 
-### 왜 나누어서 쓸까요? (블로그 예시)
+### 왜 나누어서 쓸까? (블로그 예시)
 
 모든 것을 클라이언트 파일로 만들게 되면, 사용자는 페이지에 접속할 때 아주 많은 자바스크립트 파일을 다운로드 해야해서 로딩이 느려집니다. 그래서 Next.js는 이를 해결하기 위해 할 수 있는 서버에서 다 끝내기로 했습니다. (꼭 필요한 것만 브라우저로 보내기)
 
@@ -29,7 +27,7 @@
 
 
 
-### 💡 Tip 어떻게 섞어쓸 수 있나요?
+### 💡 Tip 어떻게 섞어쓸 수 있나?
 
 서버 컴포넌트는 최대한 크게 잡고 (useClient 사용 x) / 필요한 부분만 작은 클라이언트 컴포넌트로 만들어서 끼워넣습니다.
 - ex) 블로그 포스트 페이지 전체는 서버 컴포넌트지만, 그 안의 좋아요, 댓글 기능은 client 컴포넌트로 운영합니다. 

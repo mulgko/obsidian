@@ -1,9 +1,7 @@
 
 - 주제: [[개념정리]]
 
-- 참고: [[Create Blog]]
-
-- 태그: #rendering #next #ssg #ssr #csr 
+- 태그: #rendering #next #ssg #ssr #csr #개념 
 
 Next.js는 여러가지 렌더링 방식을 제공합니다.  
 
