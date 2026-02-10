@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "707dfff8c446fbca",
+        "id": "56c8551a129c736c",
         "type": "tabs",
         "children": [
           {
-            "id": "f4045ef8b080ab14",
+            "id": "678c11015c42c1bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create Blog/개념정리/Server Component vs Client Component.md",
+                "file": "Create Blog/Phase 0 [개발 환경 & 개념].md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Server Component vs Client Component"
-            }
-          },
-          {
-            "id": "902528e59e5752d4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "Phase 0 [개발 환경 & 개념]"
             }
           }
         ]
@@ -63,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#next",
+                "query": "tag:#ssr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Create Blog/개념정리/Server Component vs Client Component.md",
+                "file": "Create Blog/Phase 0 [개발 환경 & 개념].md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Server Component vs Client Component 의 백링크"
+              "title": "Phase 0 [개발 환경 & 개념] 의 백링크"
             }
           },
           {
@@ -123,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Create Blog/개념정리/Server Component vs Client Component.md",
+                "file": "Create Blog/Phase 0 [개발 환경 & 개념].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Server Component vs Client Component 의 나가는 링크"
+              "title": "Phase 0 [개발 환경 & 개념] 의 나가는 링크"
             }
           },
           {
@@ -152,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Create Blog/개념정리/Server Component vs Client Component.md",
+                "file": "Create Blog/Phase 0 [개발 환경 & 개념].md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Server Component vs Client Component 의 개요"
+              "title": "Phase 0 [개발 환경 & 개념] 의 개요"
             }
           },
           {
@@ -201,17 +191,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4045ef8b080ab14",
+  "active": "678c11015c42c1bc",
   "lastOpenFiles": [
-    "Create Blog/개념정리/App Router vs Page Router.md",
-    "Create Blog/개념정리/Server Component vs Client Component.md",
-    "개념정리.md",
-    "Create Blog/npm/gray-matter.md",
     "Create Blog/Stack.md",
-    "Create Blog/Phase 0 [개발 환경 & 개념].md",
+    "Create Blog/개념정리/개념정리.md",
+    "Create Blog/npm/gray-matter.md",
+    "Create Blog/npm/npm.md",
+    "Create Blog/개념정리/App Router vs Page Router.md",
+    "Create Blog/개념정리/Rendering/Next.js Rendering.md",
+    "Create Blog/개념정리/Rendering/SSR.md",
     "Create Blog/Create Blog.md",
+    "Create Blog/개념정리/Server Component vs Client Component.md",
+    "Create Blog/개념정리/Rendering/SSG.md",
+    "Create Blog/개념정리/Rendering/CSR.md",
+    "무제",
+    "Create Blog/개념정리/Router",
+    "무제.base",
+    "Create Blog/개념정리/Rendering",
+    "Create Blog/Phase 0 [개발 환경 & 개념].md",
     "Create Blog/images/Obslog.png",
-    "무제.md",
     "Create Blog/개념정리",
     "Create Blog/npm",
     "obsidian + git.md",
@@ -219,7 +217,6 @@
     "Pasted image 20260209190137.png",
     "Obslog.png",
     "무제.canvas",
-    "무제.base",
     "Pasted image 20260209185914.png",
     "Pasted image 20260209185401.png",
     "Pasted image 20260209185355.png",
