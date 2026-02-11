@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "test"
             }
           }
         ],
@@ -262,10 +262,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f6dfc924df3c7e2",
+  "active": "a123cb769f497fc0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "test.md",
+    "README.md",
     "Projects/Obslog/issue/Blog posting issue.md",
-    "무제.md",
     "Projects/Obslog/issue/issue.md",
     "Projects/Obslog/개념정리/Github Acctions.md",
     "Projects/Obslog/개념정리/Rendering/Next.js Rendering.md",
@@ -292,8 +294,6 @@
     "Projects/Obslog/개념정리/Server Component vs Client Component.md",
     "Projects/Obslog/개념정리/Rendering/CSR.md",
     "Projects/Obslog/npm/npm.md",
-    "Projects/Obslog/Phase/Phase 1.md",
-    "Projects/Obslog/개념정리/Rendering/Hydration.md",
     "Projects/Obslog/images/Obslog.png",
     "Projects/Obslog/Phase",
     "Create Blog/개념정리/Router",
