@@ -1,0 +1,79 @@
+# CodeRabbit Configuration
+# https://docs.coderabbit.ai/guides/review-instructions
+
+# Language and response settings
+language: ko  # 한국어로 리뷰
+early_access: true
+enable_free_tier: true
+
+# Review settings
+reviews:
+  # ✅ main 브랜치 직접 push에도 리뷰 활성화!
+  review_on_push: true
+
+  # 자동 리뷰
+  auto_review: true
+
+  # main 브랜치도 리뷰
+  review_main_branch: true
+
+  # 리뷰 깊이
+  level: "detailed"
+
+  # 리뷰할 파일 필터
+  path_filters:
+    - "content/**/*.md"  # 마크다운만 리뷰
+    - "src/**/*.tsx"
+    - "src/**/*.ts"
+
+  # 리뷰 안 할 파일
+  path_ignores:
+    - "package-lock.json"
+    - "pnpm-lock.yaml"
+    - "*.log"
+    - ".next/**"
+    - "node_modules/**"
+    - "public/**"
+
+# 마크다운 리뷰 설정
+markdown:
+  # Frontmatter 검증
+  validate_frontmatter: true
+
+  # 링크 체크
+  check_links: true
+
+  # 맞춤법 검사 (한국어)
+  spell_check: true
+  spell_check_language: "ko-KR"
+
+# 코드 리뷰 포커스
+code_review:
+  # 보안 취약점
+  security: true
+
+  # 성능
+  performance: true
+
+  # 베스트 프랙티스
+  best_practices: true
+
+  # 버그
+  bugs: true
+
+  # 코드 스타일
+  style: false  # Tailwind는 자유롭게
+
+# 알림 설정
+notifications:
+  # 리뷰 완료 시 GitHub 코멘트
+  post_review_comment: true
+
+  # 요약 코멘트
+  summary: true
+
+# 자동화
+automation:
+  # 사소한 변경은 자동 승인
+  auto_approve:
+    enabled: false  # 수동으로 확인하는 게 좋음
