@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#개념  ",
@@ -25,7 +25,7 @@
       "query": "tag:#phase  ",
       "color": {
         "a": 1,
-        "rgb": 16737572
+        "rgb": 16751472
       }
     },
     {
@@ -53,6 +53,6 @@
   "repelStrength": 13.0789930555556,
   "linkStrength": 0.776519097222222,
   "linkDistance": 172,
-  "scale": 1.1184345155205904,
+  "scale": 0.9212641132906755,
   "close": true
 }
