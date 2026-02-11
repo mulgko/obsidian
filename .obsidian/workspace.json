@@ -25,10 +25,14 @@
             "id": "35e36282da67ca27",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Settings/obsidian + git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "obsidian + git"
             }
           }
         ],
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Settings/obsidian + git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "obsidian + git 의 백링크"
             }
           },
           {
@@ -123,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Settings/obsidian + git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "obsidian + git 의 나가는 링크"
             }
           },
           {
@@ -151,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Settings/obsidian + git.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "obsidian + git 의 개요"
             }
           },
           {
@@ -227,7 +234,7 @@
     "Projects/Obslog/개념정리/Rendering/ISR.md",
     "Projects/Obslog/개념정리/Rendering/TTFB.md",
     "Projects/Obslog/Stack.md",
-    "obsidian + git.md",
+    "Settings/obsidian + git.md",
     "Projects/Obslog/images/Obslog.png",
     "Projects/Obslog/Phase",
     "Create Blog/개념정리/Router",
