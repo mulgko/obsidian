@@ -262,8 +262,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a123cb769f497fc0",
+  "active": "f2c59d432f0d7138",
   "lastOpenFiles": [
+    "Projects/Obslog/test-coderabbit.md",
     "conflict-files-obsidian-git.md",
     "test.md",
     "README.md",
@@ -293,7 +294,6 @@
     "Projects/Obslog/npm/remark, remark-html.md",
     "Projects/Obslog/개념정리/Server Component vs Client Component.md",
     "Projects/Obslog/개념정리/Rendering/CSR.md",
-    "Projects/Obslog/npm/npm.md",
     "Projects/Obslog/images/Obslog.png",
     "Projects/Obslog/Phase",
     "Create Blog/개념정리/Router",
