@@ -8,31 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1424093181a027a8",
+            "id": "e011fe462d692f99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obslog/npm/tailwind-typography.md",
+                "file": "Projects/Obslog/Obslog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tailwind-typography"
+              "title": "Obslog"
             }
           },
           {
-            "id": "80d64ee35cd41954",
+            "id": "35e36282da67ca27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obslog/npm/tailwind-typography.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tailwind-typography"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ],
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obslog/npm/tailwind-typography.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "tailwind-typography 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -128,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obslog/npm/tailwind-typography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "tailwind-typography 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -157,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obslog/npm/tailwind-typography.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "tailwind-typography 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -206,50 +199,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80d64ee35cd41954",
+  "active": "a123cb769f497fc0",
   "lastOpenFiles": [
-    "Obslog/npm/clsx.md",
-    "Obslog/npm/next-auth.md",
-    "Obslog/npm/shiki.md",
-    "Obslog/npm/remark, remark-html.md",
-    "Obslog/npm/gray-matter.md",
-    "Obslog/개념정리/Server Component vs Client Component.md",
-    "Obslog/개념정리/Route Group.md",
-    "Obslog/개념정리/App Router vs Page Router.md",
-    "Obslog/개념정리/개념정리.md",
-    "Obslog/개념정리/Rendering/CSR.md",
-    "Obslog/npm/tailwind-typography.md",
-    "Obslog/npm/npm.md",
-    "Obslog/Phase/Phase 1.md",
-    "Obslog/Obslog.md",
-    "Obslog/개념정리/Rendering/Hydration.md",
-    "Obslog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
-    "Obslog/개념정리/Rendering/Next.js Rendering.md",
-    "Obslog/개념정리/Rendering/SSG.md",
-    "Obslog/개념정리/Rendering/ISR.md",
-    "Obslog/개념정리/Rendering/TTFB.md",
-    "Obslog/개념정리/Rendering/SSR.md",
-    "Obslog/Phase/Phase 0 [개발 환경 & 개념].md",
-    "Obslog/Phase/Phase.md",
-    "Obslog/Stack.md",
+    "Settings",
+    "Projects",
+    "Projects/Obslog/Obslog.md",
+    "Projects/Obslog/npm/tailwind-typography.md",
+    "Projects/Obslog/Phase/Phase 0 [개발 환경 & 개념].md",
+    "Projects/Obslog/Phase/Phase.md",
+    "Projects/Obslog/개념정리/Rendering/SSR.md",
+    "Projects/Obslog/npm/clsx.md",
+    "Projects/Obslog/npm/next-auth.md",
+    "Projects/Obslog/npm/shiki.md",
+    "Projects/Obslog/npm/remark, remark-html.md",
+    "Projects/Obslog/npm/gray-matter.md",
+    "Projects/Obslog/개념정리/Server Component vs Client Component.md",
+    "Projects/Obslog/개념정리/Route Group.md",
+    "Projects/Obslog/개념정리/App Router vs Page Router.md",
+    "Projects/Obslog/개념정리/개념정리.md",
+    "Projects/Obslog/개념정리/Rendering/CSR.md",
+    "Projects/Obslog/npm/npm.md",
+    "Projects/Obslog/Phase/Phase 1.md",
+    "Projects/Obslog/개념정리/Rendering/Hydration.md",
+    "Projects/Obslog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
+    "Projects/Obslog/개념정리/Rendering/Next.js Rendering.md",
+    "Projects/Obslog/개념정리/Rendering/SSG.md",
+    "Projects/Obslog/개념정리/Rendering/ISR.md",
+    "Projects/Obslog/개념정리/Rendering/TTFB.md",
+    "Projects/Obslog/Stack.md",
     "obsidian + git.md",
-    "Obslog/images/Obslog.png",
-    "Obslog/Phase",
-    "무제",
+    "Projects/Obslog/images/Obslog.png",
+    "Projects/Obslog/Phase",
     "Create Blog/개념정리/Router",
     "무제.base",
-    "Obslog/개념정리/Rendering",
-    "Obslog/개념정리",
-    "Obslog/npm",
-    "README.md",
+    "Projects/Obslog/개념정리/Rendering",
+    "Projects/Obslog/개념정리",
+    "Projects/Obslog/npm",
     "Pasted image 20260209190137.png",
     "Obslog.png",
     "무제.canvas",
     "Pasted image 20260209185914.png",
     "Pasted image 20260209185401.png",
     "Pasted image 20260209185355.png",
-    "Obslog/images",
-    "Obslog",
+    "Projects/Obslog/images",
+    "Projects/Obslog",
     "무제 1.base"
   ]
 }
