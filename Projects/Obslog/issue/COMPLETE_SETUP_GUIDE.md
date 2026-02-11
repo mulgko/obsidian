@@ -3,7 +3,7 @@
 > 재사용 가능한 컴포넌트 시스템 + Figma MCP + Obsidian + CodeRabbit 연동
 
 **작성일:** 2026-02-11
-**프로젝트:** display-flex, obslog, Obsidian vault
+**프로젝트:** display-flex, obslog, Obsidian vault.
 
 ---
 
