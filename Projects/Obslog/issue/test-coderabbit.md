@@ -16,7 +16,7 @@ tags: [test, coderabbit]
 
 ## 테스트 링크
 [존재하지 않는 링크](./nonexistent.md)
-[정상 링크](./Obslog.md)
+[정상 링크](Obslog.md)
 
 ## 의도적인 오타
 이것은 오타 테스르입니다. (테스트 → 테스르)
