@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "35e36282da67ca27",
+            "id": "e516f03f75391766",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,8 +182,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -206,8 +206,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a123cb769f497fc0",
+  "active": "e516f03f75391766",
   "lastOpenFiles": [
+    "Settings/obsidian + git.md",
     "Settings",
     "Projects",
     "Projects/Obslog/Obslog.md",
@@ -234,7 +235,6 @@
     "Projects/Obslog/개념정리/Rendering/ISR.md",
     "Projects/Obslog/개념정리/Rendering/TTFB.md",
     "Projects/Obslog/Stack.md",
-    "Settings/obsidian + git.md",
     "Projects/Obslog/images/Obslog.png",
     "Projects/Obslog/Phase",
     "Create Blog/개념정리/Router",
@@ -249,7 +249,6 @@
     "Pasted image 20260209185401.png",
     "Pasted image 20260209185355.png",
     "Projects/Obslog/images",
-    "Projects/Obslog",
-    "무제 1.base"
+    "Projects/Obslog"
   ]
 }

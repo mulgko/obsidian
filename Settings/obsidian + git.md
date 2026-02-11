@@ -9,4 +9,4 @@
    .DS_Store
     Thumbs.db
  ```
-5. 나머지는 commit / push / pull 기존 git처럼 사용하기
+5. 나머지는 commit / push / pull 기존 git처럼 사용하기.
