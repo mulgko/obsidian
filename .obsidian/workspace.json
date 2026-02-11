@@ -4,39 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "461da9b83c0e6a8c",
+        "id": "e7682afa1a9f3e29",
         "type": "tabs",
         "children": [
           {
-            "id": "e011fe462d692f99",
+            "id": "4d275830efbe624c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Obslog/Obslog.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Obslog"
+              "title": "새 탭"
             }
           },
           {
-            "id": "e516f03f75391766",
+            "id": "c8e27bbac4ef26fd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "f9e8ac2b7a17e0f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Settings/obsidian + git.md",
+                "file": "Projects/Obslog/npm/gray-matter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidian + git"
+              "title": "gray-matter"
+            }
+          },
+          {
+            "id": "6a7f76e20dbfd2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Obslog/issue/issue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "issue"
+            }
+          },
+          {
+            "id": "39e1095bc7232ef4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,8 +236,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e516f03f75391766",
+  "active": "a123cb769f497fc0",
   "lastOpenFiles": [
+    "무제.md",
+    "Projects/Obslog/issue/issue.md",
+    "Projects/Obslog/개념정리/개념정리.md",
+    "Projects/Obslog/issue/blog posting issue.md",
+    "Projects/Obslog/개념정리/Route Group.md",
+    "Projects/Obslog/npm/gray-matter.md",
+    "Projects/Obslog/issue",
+    "Projects/Obslog/Stack.md",
     "Settings/obsidian + git.md",
     "Settings",
     "Projects",
@@ -220,11 +258,8 @@
     "Projects/Obslog/npm/next-auth.md",
     "Projects/Obslog/npm/shiki.md",
     "Projects/Obslog/npm/remark, remark-html.md",
-    "Projects/Obslog/npm/gray-matter.md",
     "Projects/Obslog/개념정리/Server Component vs Client Component.md",
-    "Projects/Obslog/개념정리/Route Group.md",
     "Projects/Obslog/개념정리/App Router vs Page Router.md",
-    "Projects/Obslog/개념정리/개념정리.md",
     "Projects/Obslog/개념정리/Rendering/CSR.md",
     "Projects/Obslog/npm/npm.md",
     "Projects/Obslog/Phase/Phase 1.md",
@@ -232,9 +267,6 @@
     "Projects/Obslog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
     "Projects/Obslog/개념정리/Rendering/Next.js Rendering.md",
     "Projects/Obslog/개념정리/Rendering/SSG.md",
-    "Projects/Obslog/개념정리/Rendering/ISR.md",
-    "Projects/Obslog/개념정리/Rendering/TTFB.md",
-    "Projects/Obslog/Stack.md",
     "Projects/Obslog/images/Obslog.png",
     "Projects/Obslog/Phase",
     "Create Blog/개념정리/Router",
@@ -248,7 +280,6 @@
     "Pasted image 20260209185914.png",
     "Pasted image 20260209185401.png",
     "Pasted image 20260209185355.png",
-    "Projects/Obslog/images",
-    "Projects/Obslog"
+    "Projects/Obslog/images"
   ]
 }
