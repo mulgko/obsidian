@@ -1,0 +1,42 @@
+# CodeRabbit Configuration for Obsidian Vault
+# https://docs.coderabbit.ai/guides/review-instructions
+
+language: ko  # 한국어 리뷰
+early_access: true
+enable_free_tier: true
+
+# Review settings
+reviews:
+  # ✅ main 브랜치 직접 push에도 리뷰
+  review_on_push: true
+  auto_review: true
+  review_main_branch: true
+  level: "detailed"
+
+  # 리뷰할 파일
+  path_filters:
+    - "**/*.md"        # 모든 마크다운
+    - "Projects/**"    # Projects 폴더
+
+  # 리뷰 제외
+  path_ignores:
+    - ".obsidian/**"   # Obsidian 설정
+    - ".trash/**"
+    - ".DS_Store"
+
+# 마크다운 리뷰 설정
+markdown:
+  # Frontmatter 검증
+  validate_frontmatter: true
+
+  # 링크 체크
+  check_links: true
+
+  # 맞춤법 (한국어)
+  spell_check: true
+  spell_check_language: "ko-KR"
+
+# 알림
+notifications:
+  post_review_comment: true
+  summary: true
