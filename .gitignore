@@ -1,4 +1,5 @@
+# obsidian
 .obsidian/cache
- .obsidian/workspace
- .DS_Store
- Thumbs.db
+.obsidian/workspace
+.DS_Store
+Thumbs.db
