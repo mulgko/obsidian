@@ -1,6 +1,7 @@
 # CodeRabbit Configuration for Obsidian Vault
 # https://docs.coderabbit.ai/guides/review-instructions
 
+# Language and response settings
 language: ko  # 한국어 리뷰
 early_access: true
 enable_free_tier: true
