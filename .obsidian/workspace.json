@@ -16,10 +16,14 @@
                 "id": "6bdc2f85bfc42fda",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "새 탭"
+                  "type": "split-diff-view",
+                  "state": {
+                    "aFile": ".obsidian/workspace.json",
+                    "bFile": ".obsidian/workspace.json",
+                    "aRef": ""
+                  },
+                  "icon": "diff",
+                  "title": "Diff: workspace.json  (Working Tree)"
                 }
               }
             ]
@@ -250,8 +254,9 @@
     "Projects/Obslog/issue/test-coderabbit.md",
     "Projects/Obslog/issue/COMPLETE_SETUP_GUIDE.md",
     "COMPLETE_SETUP_GUIDE.md",
-    "test-coderabbit.md",
     "Projects/Obslog/issue/Blog posting issue.md",
+    "Projects/Obslog/issue/issue.md",
+    "test-coderabbit.md",
     "test-coderabbit 1.md",
     "Projects/Obslog/test-coderabbit 1.md",
     "Projects/test-coderabbit.md",
@@ -263,7 +268,6 @@
     "test.md",
     "conflict-files-obsidian-git.md",
     "README.md",
-    "Projects/Obslog/issue/issue.md",
     "Projects/Obslog/개념정리/Rendering/Next.js Rendering.md",
     "Projects/Obslog/개념정리/App Router vs Page Router.md",
     "Projects/Obslog/개념정리/개념정리.md",
