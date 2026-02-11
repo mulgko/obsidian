@@ -1,5 +1,7 @@
 # obsidian
 .obsidian/cache
 .obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
 .DS_Store
 Thumbs.db
