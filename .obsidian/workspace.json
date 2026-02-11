@@ -8,49 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78bffe6cf5accdaa",
+            "id": "1424093181a027a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create Blog/개념정리/Rendering/TTFB.md",
+                "file": "Obslog/npm/tailwind-typography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TTFB"
+              "title": "tailwind-typography"
             }
           },
           {
-            "id": "e329357b41734065",
+            "id": "80d64ee35cd41954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create Blog/개념정리/Rendering/Next.js Rendering.md",
+                "file": "Obslog/npm/tailwind-typography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next.js Rendering"
-            }
-          },
-          {
-            "id": "bc58c2bb7a73d8b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Create Blog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Next.js AppRouter에서의 작동방식"
+              "title": "tailwind-typography"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 215.5
   },
   "right": {
     "id": "a619922be0a36a02",
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Create Blog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
+                "file": "Obslog/npm/tailwind-typography.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Next.js AppRouter에서의 작동방식 의 백링크"
+              "title": "tailwind-typography 의 백링크"
             }
           },
           {
@@ -142,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Create Blog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
+                "file": "Obslog/npm/tailwind-typography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Next.js AppRouter에서의 작동방식 의 나가는 링크"
+              "title": "tailwind-typography 의 나가는 링크"
             }
           },
           {
@@ -171,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Create Blog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
+                "file": "Obslog/npm/tailwind-typography.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Next.js AppRouter에서의 작동방식 의 개요"
+              "title": "tailwind-typography 의 개요"
             }
           },
           {
@@ -220,36 +206,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc58c2bb7a73d8b3",
+  "active": "80d64ee35cd41954",
   "lastOpenFiles": [
-    "Create Blog/개념정리/Rendering/Next.js Rendering.md",
-    "Create Blog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
-    "Create Blog/개념정리/Rendering/CSR.md",
-    "Create Blog/개념정리/Rendering/SSG.md",
-    "Create Blog/개념정리/Rendering/Hydration.md",
-    "Create Blog/개념정리/Rendering/ISR.md",
-    "Create Blog/개념정리/Rendering/TTFB.md",
-    "Create Blog/개념정리/Rendering/SSR.md",
-    "Create Blog/Phase/Phase 1.md",
-    "Create Blog/개념정리/Route Group.md",
-    "Create Blog/개념정리/App Router vs Page Router.md",
-    "Create Blog/개념정리/개념정리.md",
-    "Create Blog/Phase/Phase 0 [개발 환경 & 개념].md",
-    "Create Blog/Phase/Phase.md",
-    "Create Blog/Stack.md",
-    "Create Blog/개념정리/Server Component vs Client Component.md",
+    "Obslog/npm/clsx.md",
+    "Obslog/npm/next-auth.md",
+    "Obslog/npm/shiki.md",
+    "Obslog/npm/remark, remark-html.md",
+    "Obslog/npm/gray-matter.md",
+    "Obslog/개념정리/Server Component vs Client Component.md",
+    "Obslog/개념정리/Route Group.md",
+    "Obslog/개념정리/App Router vs Page Router.md",
+    "Obslog/개념정리/개념정리.md",
+    "Obslog/개념정리/Rendering/CSR.md",
+    "Obslog/npm/tailwind-typography.md",
+    "Obslog/npm/npm.md",
+    "Obslog/Phase/Phase 1.md",
+    "Obslog/Obslog.md",
+    "Obslog/개념정리/Rendering/Hydration.md",
+    "Obslog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
+    "Obslog/개념정리/Rendering/Next.js Rendering.md",
+    "Obslog/개념정리/Rendering/SSG.md",
+    "Obslog/개념정리/Rendering/ISR.md",
+    "Obslog/개념정리/Rendering/TTFB.md",
+    "Obslog/개념정리/Rendering/SSR.md",
+    "Obslog/Phase/Phase 0 [개발 환경 & 개념].md",
+    "Obslog/Phase/Phase.md",
+    "Obslog/Stack.md",
     "obsidian + git.md",
-    "Create Blog/npm/gray-matter.md",
-    "Create Blog/npm/npm.md",
-    "Create Blog/Create Blog.md",
-    "Create Blog/images/Obslog.png",
-    "Create Blog/Phase",
+    "Obslog/images/Obslog.png",
+    "Obslog/Phase",
     "무제",
     "Create Blog/개념정리/Router",
     "무제.base",
-    "Create Blog/개념정리/Rendering",
-    "Create Blog/개념정리",
-    "Create Blog/npm",
+    "Obslog/개념정리/Rendering",
+    "Obslog/개념정리",
+    "Obslog/npm",
     "README.md",
     "Pasted image 20260209190137.png",
     "Obslog.png",
@@ -257,13 +248,8 @@
     "Pasted image 20260209185914.png",
     "Pasted image 20260209185401.png",
     "Pasted image 20260209185355.png",
-    "Create Blog/images",
-    "Create Blog",
-    "무제 1.base",
-    "second.md",
-    "third.md",
-    "first.md",
-    "MySql.md",
-    "환영합니다!.md"
+    "Obslog/images",
+    "Obslog",
+    "무제 1.base"
   ]
 }

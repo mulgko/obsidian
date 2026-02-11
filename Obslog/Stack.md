@@ -1,7 +1,7 @@
 
 - 주제: [[Stack]]
 
-- 참고: [[Create Blog]]
+- 참고: [[Obslog]]
 
 - 태그: #stack
 

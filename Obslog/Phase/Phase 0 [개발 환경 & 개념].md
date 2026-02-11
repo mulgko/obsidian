@@ -6,7 +6,7 @@
 
 먼저 그림을 설계
 
-![Obslog](images/Obslog.png)
+![Obslog](Obslog.png)
 
 ### 0-6. Phase 0 체크리스트
 

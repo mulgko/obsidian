@@ -1,5 +1,5 @@
 
-- 주제: [[Create Blog]]
+- 주제: [[Obslog]]
 
 - 태그: #project
 
