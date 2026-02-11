@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "1fe4bda5b0a5da4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3f66351a0189077",
+        "type": "split",
+        "children": [
+          {
+            "id": "9f0b6d1e03f667ca",
+            "type": "tabs",
+            "dimension": 53.91949152542373,
+            "children": [
+              {
+                "id": "6bdc2f85bfc42fda",
+                "type": "leaf",
+                "state": {
+                  "type": "split-diff-view",
+                  "state": {
+                    "aFile": ".obsidian/workspace.json",
+                    "bFile": ".obsidian/workspace.json",
+                    "aRef": ""
+                  },
+                  "icon": "diff",
+                  "title": "Diff: workspace.json  (Working Tree)"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1e624d781b1bf944",
+            "type": "tabs",
+            "dimension": 46.08050847457627,
+            "children": [
+              {
+                "id": "53185c5355f90549",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/gimdogyeong/Documents/Obsidian",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "터미널: gimdogyeong@gimdogyeong-ui-MacBookPro:~/Documents/Obsidian"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3da6af165b31e460",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccf468815b5b9382",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a123cb769f497fc0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "175eb44a3606c299",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#next",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "ee4bb2e507c717a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "right": {
+    "id": "a619922be0a36a02",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eb88433001abf13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e9d783cc807f5c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Settings/obsidian + git.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "obsidian + git 의 백링크"
+            }
+          },
+          {
+            "id": "47414a39a350afa0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Settings/obsidian + git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "obsidian + git 의 나가는 링크"
+            }
+          },
+          {
+            "id": "bff466369ddadb82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "88430fa140312802",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Settings/obsidian + git.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "obsidian + git 의 개요"
+            }
+          },
+          {
+            "id": "f2c59d432f0d7138",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "298013a9eb5eeea0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "53185c5355f90549",
+  "lastOpenFiles": [
+    "Projects/Obslog/issue/test-coderabbit.md",
+    "Projects/Obslog/issue/COMPLETE_SETUP_GUIDE.md",
+    "COMPLETE_SETUP_GUIDE.md",
+    "test-coderabbit.md",
+    "workspace.json",
+    "Projects/Obslog/issue/Blog posting issue.md",
+    "Projects/Obslog/issue/issue.md",
+    "test-coderabbit 1.md",
+    "Projects/Obslog/test-coderabbit 1.md",
+    "Projects/test-coderabbit.md",
+    "Projects/test-coderabbit 1.md",
+    "Projects/Obslog/test-coderabbit.md",
+    "Projects/Obslog/Obslog.md",
+    "Projects/Obslog/개념정리/Github Acctions.md",
+    "Projects/Obslog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
+    "test.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "Projects/Obslog/개념정리/Rendering/Next.js Rendering.md",
+    "Projects/Obslog/개념정리/App Router vs Page Router.md",
+    "Projects/Obslog/개념정리/개념정리.md",
+    "Projects/Obslog/개념정리/Route Group.md",
+    "무제 폴더",
+    "Projects/Obslog/npm/gray-matter.md",
+    "Projects/Obslog/issue",
+    "Projects/Obslog/Stack.md",
+    "Settings/obsidian + git.md",
+    "Settings",
+    "Projects",
+    "Projects/Obslog/npm/tailwind-typography.md",
+    "Projects/Obslog/images/Obslog.png",
+    "Projects/Obslog/Phase",
+    "Create Blog/개념정리/Router",
+    "무제.base",
+    "Projects/Obslog/개념정리/Rendering",
+    "Projects/Obslog/개념정리",
+    "Pasted image 20260209190137.png",
+    "Obslog.png",
+    "무제.canvas",
+    "Pasted image 20260209185914.png",
+    "Pasted image 20260209185401.png",
+    "Pasted image 20260209185355.png"
+  ]
+}
