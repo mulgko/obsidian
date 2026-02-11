@@ -8,65 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d275830efbe624c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "c8e27bbac4ef26fd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          },
-          {
-            "id": "f9e8ac2b7a17e0f3",
+            "id": "a4c84c1d435abfbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Obslog/npm/gray-matter.md",
+                "file": "Projects/Obslog/issue/Blog posting issue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gray-matter"
+              "title": "Blog posting issue"
             }
           },
           {
-            "id": "6a7f76e20dbfd2fb",
+            "id": "3ce646759b7a842e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Obslog/issue/issue.md",
+                "file": "Projects/Obslog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "issue"
+              "title": "Next.js AppRouter에서의 작동방식"
             }
           },
           {
-            "id": "39e1095bc7232ef4",
+            "id": "60a80c4f12b6e888",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Obslog/개념정리/Github Acctions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Github Acctions"
+            }
+          },
+          {
+            "id": "45b69ee56160280a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Obslog/issue/Blog posting issue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blog posting issue"
+            }
+          },
+          {
+            "id": "868ae1fb4f97a8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Obslog/issue/Blog posting issue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blog posting issue"
+            }
+          },
+          {
+            "id": "1f6dfc924df3c7e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "무제"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -236,13 +262,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a123cb769f497fc0",
+  "active": "1f6dfc924df3c7e2",
   "lastOpenFiles": [
+    "Projects/Obslog/issue/Blog posting issue.md",
     "무제.md",
     "Projects/Obslog/issue/issue.md",
+    "Projects/Obslog/개념정리/Github Acctions.md",
+    "Projects/Obslog/개념정리/Rendering/Next.js Rendering.md",
+    "Projects/Obslog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
+    "Projects/Obslog/개념정리/App Router vs Page Router.md",
     "Projects/Obslog/개념정리/개념정리.md",
-    "Projects/Obslog/issue/blog posting issue.md",
     "Projects/Obslog/개념정리/Route Group.md",
+    "무제 폴더",
     "Projects/Obslog/npm/gray-matter.md",
     "Projects/Obslog/issue",
     "Projects/Obslog/Stack.md",
@@ -259,14 +290,10 @@
     "Projects/Obslog/npm/shiki.md",
     "Projects/Obslog/npm/remark, remark-html.md",
     "Projects/Obslog/개념정리/Server Component vs Client Component.md",
-    "Projects/Obslog/개념정리/App Router vs Page Router.md",
     "Projects/Obslog/개념정리/Rendering/CSR.md",
     "Projects/Obslog/npm/npm.md",
     "Projects/Obslog/Phase/Phase 1.md",
     "Projects/Obslog/개념정리/Rendering/Hydration.md",
-    "Projects/Obslog/개념정리/Rendering/Next.js AppRouter에서의 작동방식.md",
-    "Projects/Obslog/개념정리/Rendering/Next.js Rendering.md",
-    "Projects/Obslog/개념정리/Rendering/SSG.md",
     "Projects/Obslog/images/Obslog.png",
     "Projects/Obslog/Phase",
     "Create Blog/개념정리/Router",
@@ -279,7 +306,6 @@
     "무제.canvas",
     "Pasted image 20260209185914.png",
     "Pasted image 20260209185401.png",
-    "Pasted image 20260209185355.png",
-    "Projects/Obslog/images"
+    "Pasted image 20260209185355.png"
   ]
 }
