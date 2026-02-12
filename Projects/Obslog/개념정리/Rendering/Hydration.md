@@ -1,7 +1,7 @@
 
 - 참고: [[CSR]]
 
-- 태그: #개념 #hydartion
+- 태그: #개념 #hydration
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-⚠️ Caution: 하이드레이션 에러 (Hydration Missmatch)
+⚠️ Caution: 하이드레이션 에러 (Hydration Mismatch)
 개발을 하다보면, Hydration failed because the initial UI does not match...라는 문구를 많이 접하게 된다. 이는 서버에서 만든 HTML과 브라우저에서 처음 만든 HTML 구조가 다를 때 발생합니다.
 
 해결법: useEffect안에서 데이터를 수정하거나, 서버와 클라이언트가 항상 같도록 설계해야합니다. 
