@@ -1,43 +1,35 @@
 # CodeRabbit Configuration for Obsidian Vault
-# https://docs.coderabbit.ai/guides/review-instructions
+# https://docs.coderabbit.ai/guides/configure-coderabbit
 
-# Language and response settings
-language: ko  # 한국어 리뷰
+# Language setting
+language: ko
+
+# Enable early access features
 early_access: true
-enable_free_tier: true
 
 # Review settings
 reviews:
-  # ✅ main 브랜치 직접 push에도 리뷰
-  review_on_push: true
-  auto_review: true
-  review_main_branch: true
-  level: "detailed"
+  # ✅ PR에만 자동 리뷰 (rate limit 방지)
+  auto_review:
+    enabled: true
+    drafts: false
 
-  # 리뷰할 파일
+  # 리뷰 대상 파일 설정
   path_filters:
-    - "**/*.md"        # 모든 마크다운
-    - "Projects/**"    # Projects 폴더
+    - "!.obsidian/**"      # Obsidian 설정 제외
+    - "!.trash/**"         # 휴지통 제외
+    - "**/*.md"            # 마크다운 파일만
+    - "Projects/**/*.md"   # Projects 폴더
 
-  # 리뷰 제외
-  path_ignores:
-    - ".obsidian/**"   # Obsidian 설정
-    - ".trash/**"
-    - ".DS_Store"
+  # 리뷰 범위 설정
+  high_level_summary: true
+  poem: false
+  review_status: true
+  collapse_walkthrough: false
 
-# 마크다운 리뷰 설정
-markdown:
-  # Frontmatter 검증
-  validate_frontmatter: true
+# Chat 설정
+chat:
+  auto_reply: false
 
-  # 링크 체크
-  check_links: true
-
-  # 맞춤법 (한국어)
-  spell_check: true
-  spell_check_language: "ko-KR"
-
-# 알림
-notifications:
-  post_review_comment: true
-  summary: true
+# 톤 설정
+tone_instructions: "한국어로 친절하고 건설적인 피드백을 제공해주세요. 마크다운 문서의 구조, 링크, 문법을 중심으로 리뷰해주세요."
