@@ -45,7 +45,7 @@
 
 ### 문제점
 
-```
+```text
 
 Obsidian → obslog-content 레포 push
 
@@ -59,7 +59,7 @@ Vercel 배포 안 됨 ❌
 
 ### 해결책
 
-```
+```text
 
 Obsidian → obslog-content push
 
@@ -85,9 +85,9 @@ Vercel 자동 배포 ✅
 
 ## 전체 구조
 
-  
 
-```
+
+```text
 
 github.com/username/obslog-content (마크다운만)
 
@@ -95,7 +95,7 @@ github.com/username/obslog-content (마크다운만)
 
 └── *.md
 
-  
+
 
 github.com/username/obslog (Next.js 프로젝트)
 
@@ -207,33 +207,34 @@ git push
 
 **Token 설정:**
 
-```
+```text
 
 Note: obslog-content-to-parent
 
-Expiration: No expiration (또는 1년)
+Expiration: 90 days (90일마다 갱신 권장)
 
-  
 
-Scopes:
 
-✓ repo (전체)
+⚠️ 권장: Fine-grained Personal Access Token 사용
+- Repository access: obslog 레포만 선택
+- Repository permissions:
+  ✓ Contents: Read and write
+  ✓ Metadata: Read-only (자동)
+  ✓ Workflows: Read and write (Actions 트리거용)
 
-✓ repo:status
-
-✓ repo_deployment
-
-✓ public_repo
-
-✓ repo:invite
-
-✓ security_events
-
+Classic Token을 사용하는 경우 최소 권한:
+✓ repo (또는 public_repo - public 레포만 해당)
 ✓ workflow
 
 ```
 
-  
+
+
+> 📚 **참고:** [GitHub Fine-grained PAT 공식 문서](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token)
+
+> ⏰ **토큰 만료 시:** 90일마다 토큰 재발급 후 obslog-content 레포의 PARENT_REPO_TOKEN Secret 업데이트 필요
+
+
 
 5. **Generate token** 클릭
 
@@ -521,7 +522,7 @@ git clone https://github.com/username/obslog-content.git ~/Documents/Obsidian/My
 
 2. **Obsidian에서 폴더 열기**
 
-```
+```text
 
 Obsidian → Open folder as vault → ~/Documents/Obsidian/MyBlog
 
@@ -531,7 +532,7 @@ Obsidian → Open folder as vault → ~/Documents/Obsidian/MyBlog
 
 3. **Obsidian Git Plugin 설치**
 
-```
+```text
 
 Settings → Community Plugins → Browse → "Obsidian Git" 검색 & 설치
 
@@ -567,7 +568,7 @@ createdAt: "2026-02-11"
 
 5. **Obsidian Git으로 push**
 
-```
+```text
 
 Ctrl/Cmd + P → "Obsidian Git: Commit and push"
 
@@ -581,7 +582,7 @@ Ctrl/Cmd + P → "Obsidian Git: Commit and push"
 
 **obslog-content 레포:**
 
-```
+```text
 
 GitHub → obslog-content 레포 → Actions 탭
 
@@ -595,7 +596,7 @@ GitHub → obslog-content 레포 → Actions 탭
 
 **obslog 레포:**
 
-```
+```text
 
 GitHub → obslog 레포 → Actions 탭
 
@@ -611,9 +612,9 @@ GitHub → obslog 레포 → Actions 탭
 
 ### 5.3 Vercel 배포 확인
 
-  
 
-```
+
+```text
 
 Vercel 대시보드 → obslog 프로젝트
 
@@ -695,7 +696,7 @@ ls -la .github/workflows/update-submodule.yml
 
 **해결:**
 
-```
+```text
 
 GitHub → Settings → Developer settings → Tokens
 
@@ -877,9 +878,9 @@ echo "::error::Submodule update failed!"
 
 ## 전체 워크플로우 요약
 
-  
 
-```
+
+```text
 
 ┌─────────────────────────────────────────────────────────────┐
 
