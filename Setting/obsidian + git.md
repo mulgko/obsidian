@@ -8,6 +8,7 @@ tags:
   - setting
   - git
   - obsidian
+published: false
 ---
 
 1. git / obsidian 설치

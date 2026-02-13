@@ -7,6 +7,7 @@ description: 옵시디언에 필요한 플러그인들
 tags:
   - plugins
   - "#setting"
+published: false
 ---
 
 # 설치해야하는 Plugins

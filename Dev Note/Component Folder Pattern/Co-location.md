@@ -9,6 +9,7 @@ tags:
   - architecture
   - frontend
   - 개념
+published: false
 ---
 
 # Co-location (위치 통합/근접 배치)

@@ -7,6 +7,7 @@ description: index
 tags:
   - 개념
   - devnote
+published: false
 ---
 
 # 본문 시작

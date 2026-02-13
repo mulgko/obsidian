@@ -10,6 +10,7 @@ tags:
   - component-structure
   - barrel-pattern
   - 개념
+published: false
 ---
 
 # Component Folder Pattern & Barrel Pattern

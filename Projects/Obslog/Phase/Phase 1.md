@@ -8,6 +8,8 @@ tags:
   - folder
   - structure
   - phase
+  - folderPattern
+published: false
 ---
 
 ## 필요한 것들: pages / components / utility / contents

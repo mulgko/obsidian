@@ -8,6 +8,7 @@ tags:
   - npm
   - tailwind
   - typography
+published: false
 ---
 
 npm i @tailwindcss/typography

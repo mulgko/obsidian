@@ -14,6 +14,7 @@ tags:
   - fsd
   - ai
   - 개념
+published: false
 ---
 
 # 프론트엔드 아키텍처 (2026 Trends)

@@ -16,6 +16,7 @@ reference: "[[<% ref %>]]"
 date: "<% tp.date.now("YYYY-MM-DD HH:mm") %>"
 description: "<% desc %>"
 tags: [<% tags %>]
+published: false
 
 ---
 
