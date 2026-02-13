@@ -3,7 +3,7 @@ title: Next.js AppRouter에서의 작동방식
 subject: "[[Rendering]]"
 reference:
 date: 2026-02-12 16:03
-description: "null"
+description: ""
 tags:
   - next
   - 개념
