@@ -1,6 +1,6 @@
 ---
 title: Obslog
-subject: "[[Projects]]"
+subject: "[[project]]"
 reference: ""
 date: 2026-02-12 09:17
 description: Obsidian + Git 기반 블로그 프로젝트

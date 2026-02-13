@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "/",
-      "template": "Settings/templater.md"
+      "template": "Setting/templater.md"
     }
   ],
   "enable_file_templates": false,
