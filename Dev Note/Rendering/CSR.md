@@ -1,15 +1,18 @@
 ---
-title: CSR
+title: "CSR"
 subject: "[[Rendering]]"
-reference:
-date: 2026-02-12 15:57
-description: 재료만 보내고 요리는 사용자가 하기
+reference: ""
+date: "2026-02-12 15:57"
+description: "재료만 보내고 요리는 사용자가 하기"
 tags:
   - rendering
   - csr
   - next
   - 개념
   - hydration
+series: ""
+seriesOrder:
+published: false
 ---
 
 - 동작원리: 서버는 텅 빈 HTML 뼈대(

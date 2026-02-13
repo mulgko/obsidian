@@ -1,15 +1,18 @@
 ---
-title: SSR
+title: "SSR"
 subject: "[[Rendering]]"
-reference:
-date: 2026-02-12 16:07
-description: SSR은 주문 즉시 요리
+reference: ""
+date: "2026-02-12 16:07"
+description: "SSR은 주문 즉시 요리"
 tags:
   - rendering
   - ssr
   - next
   - 개념
   - ttfb
+series: ""
+seriesOrder:
+published: false
 ---
 
 동작원리: 사용자가 브라우저 주소창에 엔터를 치는 순간, 서버가 "이 사람 지금 페이지를 요청했구나" 하고 그제서야 데이터를 DB에서 읽어와서 HTML을 그 자리에서 즉석 조립하는 것. 

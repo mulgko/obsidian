@@ -1,12 +1,16 @@
 ---
-title: Stack
+title: "Stack"
 subject: "[[Obslog]]"
-reference:
-date: 2026-02-12 09:17
-description: Obslog 프로젝트 기술 스택
+reference: ""
+date: "2026-02-12 09:17"
+description: "Obslog 프로젝트 기술 스택"
 tags:
   - stack
   - tech
+  - setting
+series: ""
+seriesOrder:
+published: false
 ---
 
 프레임워크: Next.js / SSG(Static Site Generation) 지원으로 인해 자주 바뀌지 않는 블로그에 특화된 프레임워크, 또한 웹검색에 용이, 풀스택 지원

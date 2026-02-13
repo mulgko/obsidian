@@ -1,15 +1,18 @@
 ---
-title: Component Folder Pattern
+title: "Component Folder Pattern"
 subject: "[[Dev Note]]"
 reference: "[[Frontend Architecture]]"
-date: 2026-02-13 11:45
-description: 컴포넌트 폴더 구조 패턴 및 배럴 익스포트 설명
+date: "2026-02-13 11:45"
+description: "컴포넌트 폴더 구조 패턴 및 배럴 익스포트 설명"
 tags:
   - architecture
   - frontend
   - component-structure
   - barrel-pattern
   - 개념
+series: ""
+seriesOrder:
+published: false
 ---
 
 # Component Folder Pattern & Barrel Pattern

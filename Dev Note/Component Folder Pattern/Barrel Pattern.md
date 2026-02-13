@@ -1,14 +1,17 @@
 ---
-title: Barrel Pattern
+title: "Barrel Pattern"
 subject: "[[Component Folder Pattern]]"
-reference:
-date: 2026-02-13 12:00
-description: 배럴 패턴(Barrel Pattern)의 개념, 장단점 및 주의사항
+reference: ""
+date: "2026-02-13 12:00"
+description: "배럴 패턴(Barrel Pattern)의 개념, 장단점 및 주의사항"
 tags:
   - barrel-pattern
   - architecture
   - frontend
   - 개념
+series: ""
+seriesOrder:
+published: false
 ---
 
 # Barrel Pattern (배럴 패턴)

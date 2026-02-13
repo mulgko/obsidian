@@ -1,14 +1,17 @@
 ---
-title: Co-location
+title: "Co-location"
 subject: "[[Barrel Pattern]]"
-reference:
-date: 2026-02-13 12:00
-description: Co-location(위치 통합)의 개념과 Next.js App Router에서의 적용
+reference: ""
+date: "2026-02-13 12:00"
+description: "Co-location(위치 통합)의 개념과 Next.js App Router에서의 적용"
 tags:
   - co-location
   - architecture
   - frontend
   - 개념
+series: ""
+seriesOrder:
+published: false
 ---
 
 # Co-location (위치 통합/근접 배치)
