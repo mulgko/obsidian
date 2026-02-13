@@ -1,9 +1,19 @@
+---
+title: Next.js Rendering
+subject: "[[Rendering]]"
+reference:
+date: 2026-02-12 16:04
+description: Next.js의 여러가지 렌더링 방식
+tags:
+  - rendering
+  - next
+  - ssg
+  - ssr
+  - csr
+  - 개념
+---
 
-- 주제: [[개념정리]]
 
-- 태그: #rendering #next #ssg #ssr #csr #개념 
-
-Next.js는 여러가지 렌더링 방식을 제공합니다.  
 
 - SSG: (Static Site Generation) - 정적 생성 / 빌드 시점에 미리 HTML을 만들어 놓습니다.
 	- 내용이 별로 바뀌지 않는 블로그 포스트에 최적입니다. 

@@ -1,3 +1,14 @@
+---
+title: obsidian + git
+subject: "[[Settings]]"
+reference: ""
+date: 2026-02-12 09:17
+description: Git과 Obsidian 연동 가이드
+tags:
+  - setting
+  - git
+  - obsidian
+---
 
 1. git / obsidian 설치
 2. git에서 .gitignore 먼저 작성

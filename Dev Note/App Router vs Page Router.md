@@ -1,8 +1,17 @@
-  
-
-- 주제: [[개념정리]]
-
-- 태그: #router #appRouter #pageRouter #component #next #개념 
+---
+title: App Router vs Page Router
+subject: "[[Dev Note]]"
+reference:
+date: 2026-02-12 15:26
+description: 앱 라우터와 페이지 라우터의 차이
+tags:
+  - "#router"
+  - appRouter
+  - pageRouter
+  - component
+  - next
+  - 개념
+---
 
 |         | AppRouter            | PageRouter          |
 | :------ | :------------------- | :------------------ |

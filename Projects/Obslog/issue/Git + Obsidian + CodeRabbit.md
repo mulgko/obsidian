@@ -1,19 +1,15 @@
+---
+title: Git + Obsidian + CodeRabbit
+subject: "[[Projects/Obslog/issue/issue]]"
+reference: "[[null]]"
+date: 2026-02-12 16:36
+description: Git & Obsidian + CodeRabbit 결합에 따른 문제 해결 가이드
+tags:
+  - issue
+  - git
+  - coderabbit
+---
 
-
-- 주제: [[issue]]
-
-- 태그: #issue #git #coderabbit
-
-
-# Git & CodeRabbit 문제 해결 가이드
-
-  
-
-> 날짜: 2026-02-12
-
-> 저장소: Obsidian (mulgko/obsidian)
-
-  
 
 ## 목차
 

@@ -1,10 +1,14 @@
-
-
-- 주제: [[개념정리]]
-
-- 태그: #next #개념 #rsc
-
-
+---
+title: Next.js AppRouter에서의 작동방식
+subject: "[[Rendering]]"
+reference:
+date: 2026-02-12 16:03
+description: "null"
+tags:
+  - next
+  - 개념
+  - rsc
+---
 Next.js App Router에서는 이 모든 것을 **서버 컴포넌트(RSC)**라는 개념으로 통합했습니다.
 
 - 이제 우리가 따로 "이건 SSG로 할게"라고 선언하지 않아도, Next.js는 똑똑하게 판단합니다.
