@@ -1,12 +1,19 @@
 {
   "collapse-filter": false,
-  "search": "hydration",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "tag:#devnote  ",
+      "color": {
+        "a": 1,
+        "rgb": 4390889
+      }
+    },
     {
       "query": "tag:#개념  ",
       "color": {
@@ -36,10 +43,10 @@
       }
     },
     {
-      "query": "tag:#stack  ",
+      "query": "tag:#memo  ",
       "color": {
         "a": 1,
-        "rgb": 6094844
+        "rgb": 10837247
       }
     },
     {
@@ -60,6 +67,6 @@
   "repelStrength": 13.0789930555556,
   "linkStrength": 0.776519097222222,
   "linkDistance": 172,
-  "scale": 1.2049574594495482,
-  "close": false
+  "scale": 0.3061742285908215,
+  "close": true
 }

@@ -1,7 +1,12 @@
-
-- 참고: [[SSG]]
-
-- 태그: #개념 
+---
+title: ISR
+subject: "[[Rendering]]"
+reference:
+date: 2026-02-12 16:01
+description:
+tags:
+  - 개념
+---
 
 
 Incremental Static Regeneration

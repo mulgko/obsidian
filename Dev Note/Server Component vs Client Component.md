@@ -1,8 +1,19 @@
-
-- 주제: [[개념정리]]
-
-- 태그: #serverComponent #clientComponent #next #useState #useEffect #onClick #onChange #개념 
-
+---
+title: Server Component vs Client Component
+subject: "[[Dev Note]]"
+reference: "[[null]]"
+date: 2026-02-12 15:49
+description: "null"
+tags:
+  - serverComponent
+  - clientComponent
+  - next
+  - useState
+  - useEffect
+  - onClick
+  - onChange
+  - 개념
+---
 
 |            | Server                        | Client                  |
 | ---------- | ----------------------------- | ----------------------- |

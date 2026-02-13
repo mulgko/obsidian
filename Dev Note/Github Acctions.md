@@ -1,9 +1,14 @@
-  
-
-- 주제: [[개념정리]]
-
-- 태그: #개념 #githubActions #git 
-
+---
+title: Github Acctions
+subject: "[[Dev Note]]"
+reference: "[[null]]"
+date: 2026-02-12 15:45
+description: 깃허브 액션에 대해서
+tags:
+  - 개념
+  - githubActions
+  - git
+---
 
 Github Acctions는 Github에서 제공하는 CI/CD플랫폼. 코드 저장소에서 push, pr 등이 발생했을 때 내가 정해놓은 작업들이 자동으로 실행되는 것. 
 
