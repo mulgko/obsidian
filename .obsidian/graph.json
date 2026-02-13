@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "settings",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 16749803
       }
+    },
+    {
+      "query": "tag:#setting  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +74,6 @@
   "repelStrength": 13.0789930555556,
   "linkStrength": 0.776519097222222,
   "linkDistance": 172,
-  "scale": 0.3061742285908215,
-  "close": true
+  "scale": 0.4769425099394237,
+  "close": false
 }
