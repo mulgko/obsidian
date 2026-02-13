@@ -10,9 +10,9 @@ tags:
   - phase
 ---
 
-### 필요한 것들: pages / components / utility / contents
+## 필요한 것들: pages / components / utility / contents
 
-```
+```text
 
 페이지:
 

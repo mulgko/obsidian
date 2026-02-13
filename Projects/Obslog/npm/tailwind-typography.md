@@ -10,7 +10,7 @@ tags:
   - typography
 ---
 
-npm i @tailwindcss/typhgraphy
+npm i @tailwindcss/typography
 
 
 
