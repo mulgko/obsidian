@@ -22,7 +22,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": true,
   "refreshSourceControl": true,
-  "basePath": "/mulgko/obsidian.git",
+  "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
