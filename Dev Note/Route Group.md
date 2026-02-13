@@ -1,8 +1,12 @@
-
-- 주제: [[개념정리]]
-
-- 참고: [[Phase 1]] #개념 
-
+---
+title: Route Group
+subject: "[[Dev Note]]"
+reference: "[[Phase 1]]"
+date: 2026-02-12 15:47
+description: Route Group에 대해서
+tags:
+  - 개념
+---
 Route Group? (blog), (admin) 
 
 괄호로 감싼 폴더는 URL에 포함되지 않는 것. 

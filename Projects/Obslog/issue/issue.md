@@ -1,8 +1,10 @@
-
-- 주제: [[issue]]
-
-- 참고: [[Obslog]]
-
-- 태그: #issue 
-
+---
+title: issue
+subject: "[[issue]]"
+reference: "[[Obslog]]"
+date: 2026-02-12 17:44
+description: issue
+tags:
+  - issue
+---
 

@@ -1,9 +1,13 @@
-
-- 참고: [[CSR]]
-
-- 태그: #개념 #hydration
-
-
+---
+title: Hydration
+subject: "[[Rendering]]"
+reference: "[[CSR]]"
+date: 2026-02-12 15:58
+description:
+tags:
+  - 개념
+  - hydration
+---
 
 1. 배경: next.js의 hydration은 용어 이상으로 매우 중요한 개념. 전통적인 CSR은 브라우저가 처음 받는 HTML이 비어있습니다. JS가 실행될 때까지 하얀 화면으로 출력. next.js는 이를 해결하기 위해서 미리 HTML을 그려서 Pre-rendering을 해줍니다. 이는 단순한 껍데기에 불과합니다.
 2. 과정(3단계)

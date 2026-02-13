@@ -1,8 +1,13 @@
-
-- 주제: [[Phase]] 
-
-- 태그: #setting #phase 
-
+---
+title: Phase 0 [개발 환경 & 개념]
+subject: "[[phase]]"
+reference:
+date: 2026-02-12 09:17
+description: 개발 환경 설정 및 기본 개념 이해
+tags:
+  - setting
+  - phase
+---
 
 먼저 그림을 설계
 
