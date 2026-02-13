@@ -1,13 +1,15 @@
 ---
-title: Obslog
+title: "Obslog"
 subject: "[[project]]"
 reference: ""
-date: 2026-02-12 09:17
-description: Obsidian + Git 기반 블로그 프로젝트
+date: "2026-02-12 09:17"
+description: "Obsidian + Git 기반 블로그 프로젝트"
 tags:
   - project
   - blog
   - obsidian
+series: ""
+seriesOrder:
 published: false
 ---
 

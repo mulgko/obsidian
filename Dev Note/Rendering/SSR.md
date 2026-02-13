@@ -1,15 +1,17 @@
 ---
-title: SSR
+title: "SSR"
 subject: "[[Rendering]]"
-reference:
-date: 2026-02-12 16:07
-description: SSR은 주문 즉시 요리
+reference: ""
+date: "2026-02-12 16:07"
+description: "SSR은 주문 즉시 요리"
 tags:
   - rendering
   - ssr
   - next
   - 개념
   - ttfb
+series: ""
+seriesOrder:
 published: false
 ---
 

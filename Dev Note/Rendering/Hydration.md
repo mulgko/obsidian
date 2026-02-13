@@ -1,12 +1,14 @@
 ---
-title: Hydration
+title: "Hydration"
 subject: "[[Rendering]]"
 reference: "[[CSR]]"
-date: 2026-02-12 15:58
-description:
+date: "2026-02-12 15:58"
+description: ""
 tags:
   - 개념
   - hydration
+series: ""
+seriesOrder:
 published: false
 ---
 

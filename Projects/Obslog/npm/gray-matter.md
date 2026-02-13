@@ -1,12 +1,14 @@
 ---
-title: gray-matter
+title: "gray-matter"
 subject: "[[npm]]"
-reference:
-date: 2026-02-12 09:17
-description: 마크다운 파일의 메타데이터를 추출하는 라이브러리
+reference: ""
+date: "2026-02-12 09:17"
+description: "마크다운 파일의 메타데이터를 추출하는 라이브러리"
 tags:
   - npm
   - metadata
+series: ""
+seriesOrder:
 published: false
 ---
 

@@ -1,15 +1,17 @@
 ---
-title: Monorepo & Turborepo
+title: "Monorepo & Turborepo"
 subject: "[[Barrel Pattern]]"
-reference:
-date: 2026-02-13 12:00
-description: 모노레포(Monorepo)와 터보레포(Turborepo)의 개념 및 장점
+reference: ""
+date: "2026-02-13 12:00"
+description: "모노레포(Monorepo)와 터보레포(Turborepo)의 개념 및 장점"
 tags:
   - monorepo
   - turborepo
   - architecture
   - frontend
   - 개념
+series: ""
+seriesOrder:
 published: false
 ---
 

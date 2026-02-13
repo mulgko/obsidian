@@ -1,12 +1,14 @@
 ---
-title: shiki
+title: "shiki"
 subject: "[[npm]]"
-reference:
-date: 2026-02-12 09:17
-description: VS Code 테마를 사용하는 코드 구문 강조 라이브러리
+reference: ""
+date: "2026-02-12 09:17"
+description: "VS Code 테마를 사용하는 코드 구문 강조 라이브러리"
 tags:
   - npm
   - syntax-highlighting
+series: ""
+seriesOrder:
 published: false
 ---
 

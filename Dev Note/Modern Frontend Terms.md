@@ -1,14 +1,16 @@
 ---
 title: Modern Frontend Terms
 subject: "[[Dev Note]]"
-reference: "[[Component Folder Pattern]], [[Frontend Architecture]]"
+reference: "[[Component Folder Pattern]]"
 date: 2026-02-13 11:58
-description: "현대 프론트엔드 개발의 핵심 개념 (Barrel, Monorepo, Co-location)"
+description: 현대 프론트엔드 개발의 핵심 개념 (Barrel, Monorepo, Co-location)
 tags:
   - barrel-pattern
   - monorepo
   - turborepo
   - co-location
+series: ""
+seriesOrder:
 published: false
 ---
 

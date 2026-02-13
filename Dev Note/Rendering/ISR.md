@@ -1,11 +1,13 @@
 ---
-title: ISR
+title: "ISR"
 subject: "[[Rendering]]"
-reference:
-date: 2026-02-12 16:01
-description:
+reference: ""
+date: "2026-02-12 16:01"
+description: ""
 tags:
   - 개념
+series: ""
+seriesOrder:
 published: false
 ---
 

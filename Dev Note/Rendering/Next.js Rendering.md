@@ -1,9 +1,9 @@
 ---
-title: Next.js Rendering
+title: "Next.js Rendering"
 subject: "[[Rendering]]"
-reference:
-date: 2026-02-12 16:04
-description: Next.js의 여러가지 렌더링 방식
+reference: ""
+date: "2026-02-12 16:04"
+description: "Next.js의 여러가지 렌더링 방식"
 tags:
   - rendering
   - next
@@ -11,6 +11,8 @@ tags:
   - ssr
   - csr
   - 개념
+series: ""
+seriesOrder:
 published: false
 ---
 

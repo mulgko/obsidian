@@ -1,14 +1,17 @@
 ---
-title: Obsidian Submodule 선택적 발행 가이드
+title: "Obsidian Submodule 선택적 발행 가이드"
 subject: "[[Obslog]]"
 reference: "[[ROADMAP]], [[Obsidian-Blog-Structure]]"
-date: 2026-02-13
-description: Obsidian 저장소를 submodule로 넣고 원하는 파일만 블로그에 발행하는 방법
+date: "2026-02-13"
+description: "Obsidian 저장소를 submodule로 넣고 원하는 파일만 블로그에 발행하는 방법"
 tags:
   - obsidian
   - blog
   - submodule
   - publishing
+series: ""
+seriesOrder:
+published: false
 ---
 
 # Obsidian Submodule 선택적 발행 가이드

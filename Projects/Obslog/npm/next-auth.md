@@ -1,9 +1,9 @@
 ---
-title: next-auth
+title: "next-auth"
 subject: "[[npm]]"
-reference:
-date: 2026-02-12 09:17
-description: Next.js를 위한 인증 라이브러리
+reference: ""
+date: "2026-02-12 09:17"
+description: "Next.js를 위한 인증 라이브러리"
 tags:
   - npm
   - login
@@ -11,6 +11,8 @@ tags:
   - next
   - cookie
   - session
+series: ""
+seriesOrder:
 published: false
 ---
 
