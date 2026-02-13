@@ -9,7 +9,7 @@ tags:
   - git
   - obsidian
 ---
-d
+
 1. git / obsidian 설치
 2. git에서 .gitignore 먼저 작성
 ```gitignore
