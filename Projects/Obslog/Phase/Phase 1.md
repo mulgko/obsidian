@@ -1,14 +1,16 @@
 ---
-title: Phase 1
+title: "Phase 1"
 subject: "[[phase]]"
-reference:
-date: 2026-02-12 09:17
-description: 프로젝트 폴더 구조 및 필요한 요소 설계
+reference: ""
+date: "2026-02-12 09:17"
+description: "프로젝트 폴더 구조 및 필요한 요소 설계"
 tags:
   - folder
   - structure
   - phase
   - folderPattern
+series: ""
+seriesOrder:
 published: false
 ---
 

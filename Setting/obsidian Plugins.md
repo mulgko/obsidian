@@ -1,12 +1,14 @@
 ---
 title: Obsidian Plugins
-subject: "[[setting]]"
-reference: "[[]]"
-date: 2026-02-13 10:12
+subject: "[[templater]]"
+reference: ""
+date: 2026-02-13 17:45
 description: 옵시디언에 필요한 플러그인들
 tags:
   - plugins
-  - "#setting"
+  - setting
+series: ""
+seriesOrder:
 published: false
 ---
 

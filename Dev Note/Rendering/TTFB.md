@@ -1,11 +1,13 @@
 ---
-title: TTFB
+title: "TTFB"
 subject: "[[Rendering]]"
-reference:
-date: 2026-02-12 16:09
+reference: ""
+date: "2026-02-12 16:09"
 description: ""
 tags:
   - 개념
+series: ""
+seriesOrder:
 published: false
 ---
 

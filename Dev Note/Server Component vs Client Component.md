@@ -1,8 +1,8 @@
 ---
-title: Server Component vs Client Component
+title: "Server Component vs Client Component"
 subject: "[[Dev Note]]"
 reference: "[[null]]"
-date: 2026-02-12 15:49
+date: "2026-02-12 15:49"
 description: "null"
 tags:
   - serverComponent
@@ -13,6 +13,8 @@ tags:
   - onClick
   - onChange
   - 개념
+series: ""
+seriesOrder:
 published: false
 ---
 

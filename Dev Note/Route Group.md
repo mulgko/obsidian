@@ -1,11 +1,13 @@
 ---
-title: Route Group
+title: "Route Group"
 subject: "[[Dev Note]]"
 reference: "[[Phase 1]]"
-date: 2026-02-12 15:47
-description: Route Group에 대해서
+date: "2026-02-12 15:47"
+description: "Route Group에 대해서"
 tags:
   - 개념
+series: ""
+seriesOrder:
 published: false
 ---
 Route Group? (blog), (admin) 

@@ -1,13 +1,15 @@
 ---
-title: Stack
+title: "Stack"
 subject: "[[Obslog]]"
-reference:
-date: 2026-02-12 09:17
-description: Obslog 프로젝트 기술 스택
+reference: ""
+date: "2026-02-12 09:17"
+description: "Obslog 프로젝트 기술 스택"
 tags:
   - stack
   - tech
   - setting
+series: ""
+seriesOrder:
 published: false
 ---
 

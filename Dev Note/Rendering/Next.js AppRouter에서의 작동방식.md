@@ -1,13 +1,15 @@
 ---
-title: Next.js AppRouter에서의 작동방식
+title: "Next.js AppRouter에서의 작동방식"
 subject: "[[Rendering]]"
-reference:
-date: 2026-02-12 16:03
+reference: ""
+date: "2026-02-12 16:03"
 description: ""
 tags:
   - next
   - 개념
   - rsc
+series: ""
+seriesOrder:
 published: false
 ---
 Next.js App Router에서는 이 모든 것을 **서버 컴포넌트(RSC)**라는 개념으로 통합했습니다.

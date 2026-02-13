@@ -1,13 +1,15 @@
 ---
-title: Github Actions
+title: "Github Actions"
 subject: "[[Dev Note]]"
 reference: ""
-date: 2026-02-12 15:45
-description: 깃허브 액션에 대해서
+date: "2026-02-12 15:45"
+description: "깃허브 액션에 대해서"
 tags:
   - 개념
   - githubActions
   - git
+series: ""
+seriesOrder:
 published: false
 ---
 

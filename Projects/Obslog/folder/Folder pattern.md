@@ -1,15 +1,17 @@
 ---
-title: Final Blog Project Structure
+title: "Final Blog Project Structure"
 subject: "[[folder]]"
-reference:
-date: 2026-02-13
-description: ROADMAP과 folder.md를 결합한 최종 추천 폴더 구조
+reference: ""
+date: "2026-02-13"
+description: "ROADMAP과 folder.md를 결합한 최종 추천 폴더 구조"
 tags:
   - architecture
   - folder
   - final
   - folderPattern
   - setting
+series: ""
+seriesOrder:
 published: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: obsidian + git
-subject: "[[setting]]"
+subject: "[[Setting/setting]]"
 reference: ""
 date: 2026-02-12 09:17
 description: Git과 Obsidian 연동 가이드
@@ -8,6 +8,8 @@ tags:
   - setting
   - git
   - obsidian
+series: ""
+seriesOrder:
 published: false
 ---
 

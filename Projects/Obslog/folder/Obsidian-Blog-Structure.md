@@ -1,13 +1,16 @@
 ---
-title: Obsidian + Blog 연동 구조 가이드
+title: "Obsidian + Blog 연동 구조 가이드"
 subject: "[[Obslog]]"
 reference: "[[ROADMAP]]"
-date: 2026-02-13
-description: Obsidian vault를 블로그와 연동할 때 시리즈, 태그 구조화 가이드
+date: "2026-02-13"
+description: "Obsidian vault를 블로그와 연동할 때 시리즈, 태그 구조화 가이드"
 tags:
   - obsidian
   - blog
   - structure
+series: ""
+seriesOrder:
+published: false
 ---
 
 # Obsidian + Blog 연동 구조 가이드

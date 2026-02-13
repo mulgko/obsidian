@@ -1,9 +1,9 @@
 ---
-title: Frontend Architecture
+title: "Frontend Architecture"
 subject: "[[Dev Note]]"
 reference: ""
-date: 2026-02-13 11:22
-description: 2026년 프론트엔드 아키텍처 트렌드와 실용적인 패턴 가이드
+date: "2026-02-13 11:22"
+description: "2026년 프론트엔드 아키텍처 트렌드와 실용적인 패턴 가이드"
 tags:
   - architecture
   - frontend
@@ -14,6 +14,8 @@ tags:
   - fsd
   - ai
   - 개념
+series: ""
+seriesOrder:
 published: false
 ---
 
