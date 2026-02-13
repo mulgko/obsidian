@@ -1,10 +1,13 @@
-
-- 주제: [[Stack]]
-
-- 참고: [[Obslog]]
-
-- 태그: #stack
-
+---
+title: Stack
+subject: "[[Obslog]]"
+reference:
+date: 2026-02-12 09:17
+description: Obslog 프로젝트 기술 스택
+tags:
+  - stack
+  - tech
+---
 
 프레임워크: Next.js / SSG(Static Site Generation) 지원으로 인해 자주 바뀌지 않는 블로그에 특화된 프레임워크, 또한 웹검색에 용이, 풀스택 지원
 

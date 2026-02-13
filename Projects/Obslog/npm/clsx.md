@@ -1,10 +1,16 @@
+---
+title: clsx
+subject: "[[npm]]"
+reference:
+date: 2026-02-12 09:17
+description: 조건에 따라 CSS 클래스를 관리하는 유틸리티
+tags:
+  - npm
+  - css
+  - utility
+---
 
-- 참고: [[npm]]
-
-- 태그: #npm #css #utility
-
-
-### 
+###
 
 ```
 clsx
