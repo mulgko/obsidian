@@ -9,6 +9,7 @@ tags:
   - turborepo
   - architecture
   - frontend
+  - 개념
 ---
 
 # Monorepo & Turborepo

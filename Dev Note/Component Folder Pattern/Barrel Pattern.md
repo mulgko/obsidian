@@ -8,6 +8,7 @@ tags:
   - barrel-pattern
   - architecture
   - frontend
+  - 개념
 ---
 
 # Barrel Pattern (배럴 패턴)
