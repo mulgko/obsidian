@@ -1,13 +1,16 @@
 ---
-title: tailwind-typography
+title: "tailwind-typography"
 subject: "[[npm]]"
-reference:
-date: 2026-02-12 09:17
-description: Tailwind CSS를 위한 타이포그래피 플러그인
+reference: ""
+date: "2026-02-12 09:17"
+description: "Tailwind CSS를 위한 타이포그래피 플러그인"
 tags:
   - npm
   - tailwind
   - typography
+series: ""
+seriesOrder:
+published: false
 ---
 
 npm i @tailwindcss/typography

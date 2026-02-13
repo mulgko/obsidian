@@ -1,13 +1,16 @@
 ---
-title: Obslog
+title: "Obslog"
 subject: "[[project]]"
 reference: ""
-date: 2026-02-12 09:17
-description: Obsidian + Git 기반 블로그 프로젝트
+date: "2026-02-12 09:17"
+description: "Obsidian + Git 기반 블로그 프로젝트"
 tags:
   - project
   - blog
   - obsidian
+series: ""
+seriesOrder:
+published: false
 ---
 
 기존에 쓰려고 했던 블로그들은 UI/UX가 마음에 들지 않았고, 커스텀을 할 수가 없었다. 그래서 직접 블로그를 만들기로 했다. 또 링크와 그래픽 뷰로 이루어진 obsidian과 결합해서 시각적으로 정보를 담을 수 있으면 좋겠다 싶었고, 이를 한번 더 git과 연결해서 로컬 뿐만 아니라 인터넷만 연결 되어있다면 모든 정보를 받을 수 있고 업로드 할 수 있게 만들고 싶었다.

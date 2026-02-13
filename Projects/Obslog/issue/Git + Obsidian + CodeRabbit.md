@@ -1,13 +1,16 @@
 ---
-title: Git + Obsidian + CodeRabbit
+title: "Git + Obsidian + CodeRabbit"
 subject: "[[Projects/Obslog/issue/issue]]"
 reference: "[[null]]"
-date: 2026-02-12 16:36
-description: Git & Obsidian + CodeRabbit 결합에 따른 문제 해결 가이드
+date: "2026-02-12 16:36"
+description: "Git & Obsidian + CodeRabbit 결합에 따른 문제 해결 가이드"
 tags:
   - issue
   - git
   - coderabbit
+series: ""
+seriesOrder:
+published: false
 ---
 
 

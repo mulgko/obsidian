@@ -1,9 +1,9 @@
 ---
-title: App Router vs Page Router
+title: "App Router vs Page Router"
 subject: "[[Dev Note]]"
-reference:
-date: 2026-02-12 15:26
-description: 앱 라우터와 페이지 라우터의 차이
+reference: ""
+date: "2026-02-12 15:26"
+description: "앱 라우터와 페이지 라우터의 차이"
 tags:
   - "#router"
   - appRouter
@@ -11,6 +11,9 @@ tags:
   - component
   - next
   - 개념
+series: ""
+seriesOrder:
+published: false
 ---
 
 |         | AppRouter            | PageRouter          |

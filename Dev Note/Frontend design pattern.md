@@ -1,14 +1,17 @@
 ---
-title: Frontend design pattern
+title: "Frontend design pattern"
 subject: "[[Dev Note]]"
 reference: ""
-date: 2026-02-12 15:42
-description: 프론트엔드 디자인 패턴 가이드
+date: "2026-02-12 15:42"
+description: "프론트엔드 디자인 패턴 가이드"
 tags:
   - design
   - pattern
   - frontend
   - 개념
+series: ""
+seriesOrder:
+published: false
 ---
 
 # 디자인 패턴
@@ -43,7 +46,7 @@ tags:
 
 앱이 복잡해지면서 "상태(State)"를 어떻게 관리할 것인가가 중요해졌습니다.
 
-### FLUX Architecture (Redux, Zustant)
+### FLUX Architecture (Redux, Zustand)
 - **Unidirectional Data Flow**: Action -> Dispatcher -> Store -> View의 단방향 흐름.
 - **특징**: 데이터 흐름이 예측 가능해져 디버깅이 쉬워짐. 대규모 앱의 복잡한 상태 관리에 적합.
 
