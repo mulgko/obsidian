@@ -1,7 +1,7 @@
 ---
-title: Github Acctions
+title: Github Actions
 subject: "[[Dev Note]]"
-reference: "[[null]]"
+reference: ""
 date: 2026-02-12 15:45
 description: 깃허브 액션에 대해서
 tags:
@@ -10,7 +10,7 @@ tags:
   - git
 ---
 
-Github Acctions는 Github에서 제공하는 CI/CD플랫폼. 코드 저장소에서 push, pr 등이 발생했을 때 내가 정해놓은 작업들이 자동으로 실행되는 것. 
+Github Actions는 Github에서 제공하는 CI/CD플랫폼. 코드 저장소에서 push, pr 등이 발생했을 때 내가 정해놓은 작업들이 자동으로 실행되는 것. 
 
 - Workflow: 가장 상위 개념으로 자동화된 전체 프로세스 .github/workflow/.yml 형식의 파일로 저장 
 - Events: 워크플로우를 실행시키는 트리거 역할. 코드를 push했을 때, 매일 자정, 혹은 수동으로 버튼을 눌렀을 때 등
