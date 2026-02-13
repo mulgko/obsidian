@@ -8,6 +8,7 @@ tags:
   - next
   - 개념
   - rsc
+published: false
 ---
 Next.js App Router에서는 이 모든 것을 **서버 컴포넌트(RSC)**라는 개념으로 통합했습니다.
 

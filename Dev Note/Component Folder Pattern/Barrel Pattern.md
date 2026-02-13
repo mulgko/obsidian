@@ -9,6 +9,7 @@ tags:
   - architecture
   - frontend
   - 개념
+published: false
 ---
 
 # Barrel Pattern (배럴 패턴)

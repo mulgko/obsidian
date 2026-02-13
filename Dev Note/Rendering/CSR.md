@@ -10,6 +10,7 @@ tags:
   - next
   - 개념
   - hydration
+published: false
 ---
 
 - 동작원리: 서버는 텅 빈 HTML 뼈대(

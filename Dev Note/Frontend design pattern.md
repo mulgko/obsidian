@@ -9,6 +9,7 @@ tags:
   - pattern
   - frontend
   - 개념
+published: false
 ---
 
 # 디자인 패턴

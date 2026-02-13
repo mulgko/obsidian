@@ -10,6 +10,7 @@ tags:
   - next
   - 개념
   - isr
+published: false
 ---
 
 - 동작원리: npm run build 할 때 서버가 데이터를 가져와서 미리 HTML을 생성, 서버에 물리적으로 파일 생성

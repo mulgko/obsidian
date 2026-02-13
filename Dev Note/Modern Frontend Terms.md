@@ -9,6 +9,7 @@ tags:
   - monorepo
   - turborepo
   - co-location
+published: false
 ---
 
 # 현대 프론트엔드 핵심 용어 정리

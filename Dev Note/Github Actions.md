@@ -8,6 +8,7 @@ tags:
   - 개념
   - githubActions
   - git
+published: false
 ---
 
 Github Actions는 Github에서 제공하는 CI/CD플랫폼. 코드 저장소에서 push, pr 등이 발생했을 때 내가 정해놓은 작업들이 자동으로 실행되는 것. 
