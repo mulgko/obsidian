@@ -20,3 +20,5 @@ published: false
 - Templater
 
 
+![[Pasted image 20260218165558.png]]
+![[Pasted image 20260218165616.png]]
