@@ -14,7 +14,8 @@ published: false
 
 먼저 그림을 설계
 
-![Obslog](Obslog.png)
+![[Obslog.png]]
+
 
 ### 0-6. Phase 0 체크리스트
 
