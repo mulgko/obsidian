@@ -9,6 +9,7 @@ tags:
   - monorepo
   - turborepo
   - co-location
+  - 개념
 series: ""
 seriesOrder:
 published: false
