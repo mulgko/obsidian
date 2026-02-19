@@ -1,7 +1,7 @@
 ---
 title: LocalStorage & Cookie
 subject: "[[Dev Note]]"
-reference: ""
+reference: "[[Theme]]"
 date: 2026-02-19 17:48
 description: ""
 tags:
