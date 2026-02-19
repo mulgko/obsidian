@@ -3,7 +3,7 @@ title: LocalStorage & Cookie
 subject: "[[Dev Note]]"
 reference: "[[Theme]]"
 date: 2026-02-19 17:48
-description: ""
+description: "LocalStorage vs Cookie 차이 비교 및 SSR hydration 오류 해결 (테마 적용)"
 tags:
   - local-storage
   - cookie
