@@ -42,6 +42,8 @@ my-blog/
 ├── src/
 │   ├── app/                     # Next.js App Router
 │   │   │
+
+
 │   │   ├── (blog)/              # 🌐 공개 블로그 영역 (Route Group)
 │   │   │   ├── layout.tsx       # 블로그 레이아웃 (Header + Footer)
 │   │   │   ├── page.tsx         # 메인 페이지 (/)
@@ -390,6 +392,7 @@ API:          route.ts             (Next.js 규칙)
 - [[Component Folder Pattern]] - 폴더 구조 패턴 심화
 - [[Co-location]] - 위치 통합 개념
 - [[Barrel Pattern]] - 배럴 패턴 장단점
+- [[UI Library]] - UI 라이브러리 성격 및 분류 기준
 - [[Frontend Architecture]] - 전체 아키텍처
 - [[Roadmap]] - 프로젝트 단계별 가이드
 
