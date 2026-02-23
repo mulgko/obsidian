@@ -1,6 +1,6 @@
 ---
 title: Phase 2
-subject: ""
+subject: "[[phase]]"
 reference: ""
 date: 2026-02-23 10:53
 description: ""
