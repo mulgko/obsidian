@@ -1,9 +1,9 @@
 ---
-title: "Route Group"
+title: Route Group
 subject: "[[Dev Note]]"
-reference: "[[Phase 1]]"
-date: "2026-02-12 15:47"
-description: "Route Group에 대해서"
+reference: "[[Phase 1 [프로젝트 생성 & 구조설계]]]"
+date: 2026-02-12 15:47
+description: Route Group에 대해서
 tags:
   - 개념
 series: ""
