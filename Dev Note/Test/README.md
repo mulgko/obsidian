@@ -75,7 +75,7 @@ expect(post).toHaveProperty("slug");
 
 // 정렬 검증: 인접한 두 요소를 비교해서 내림차순인지 확인
 for (let i = 0; i < posts.length - 1; i++) {
-  expect(posts[i].frontmatter.date >= posts[i + 1].frontmatter.date).toBe(true);
+  expect(posts[i].frontmatter.createdAt >= posts[i + 1].frontmatter.createdAt).toBe(true);
 }
 ```
 
@@ -95,9 +95,9 @@ expect(result).toBeNull();
 ### `getAllTags()` — 중복 제거 검증
 
 ```ts
-const tags = getAllTags();
-const unique = [...new Set(tags)]; // Set으로 중복 제거한 배열
-expect(tags.length).toBe(unique.length); // 길이가 같으면 중복 없음
+const tags = getAllTags(); // { name: string, count: number }[]
+const uniqueNames = new Set(tags.map((t) => t.name));
+expect(tags.length).toBe(uniqueNames.size); // 길이가 같으면 중복 없음
 ```
 
 ### `savePost()` + `deletePost()` — 파일 시스템 직접 확인

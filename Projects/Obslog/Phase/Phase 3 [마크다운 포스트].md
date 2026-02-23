@@ -14,7 +14,7 @@ published: false
 
 # Phase 3
 
- `content/posts/` 폴더에 샘플 .md 파일 3개 이상 작성
+- [x] `content/posts/` 폴더에 샘플 .md 파일 3개 이상 작성
 - [x] `src/types/index.ts`에 타입 정의
 - [x] `getAllPosts()` 구현 & 테스트
 - [x] `getPostBySlug()` 구현 & 테스트

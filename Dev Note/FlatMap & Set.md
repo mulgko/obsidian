@@ -34,7 +34,7 @@ const posts = [
 
 { tags: ["javascript", "react"] },
 
-{ tags: ["next.js"] },a
+{ tags: ["next.js"] },
 
 { tags: ["javascript", "typescript"] },
 
@@ -165,6 +165,6 @@ const uniqueTags = [...new Set(allTags)];
 
 // 한 줄 요약:
 
-const uniqueTags = [...new Set(posts.flatMap((p) => p.frontmatter.tags))];
+const uniqueTagsSummary = [...new Set(posts.flatMap((p) => p.frontmatter.tags))];
 
 ```

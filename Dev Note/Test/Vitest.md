@@ -18,7 +18,7 @@ published: false
 
 1. 의존성 설치 
 2. vitest.config.ts 파일 작성
-3. __tests__폴더에 test.md 파일 작성
+3. __tests__폴더에 posts.test.ts 파일 작성
 
 # posts.ts 테스트 가이드
 
