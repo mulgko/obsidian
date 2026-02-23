@@ -1,25 +1,3 @@
----
-title: Vitest
-subject: "[[Test]]"
-reference: "[[Vitest vs Jest]]"
-date: 2026-02-23 15:12
-description: ""
-tags:
-  - vitest
-  - test
-series: ""
-seriesOrder:
-published: false
----
-
-# Vitest
-
-테스트 하는 법.
-
-1. 의존성 설치 
-2. vitest.config.ts 파일 작성
-3. __tests__폴더에 test.md 파일 작성
-
 # posts.ts 테스트 가이드
 
 ## 실행 방법
@@ -157,6 +135,3 @@ afterEach(() => {
 | 쓰기 함수는 임시 파일로 | `__test-post__` slug로 격리 |
 | 항상 엣지 케이스 포함 | 없는 slug, 없는 tag 등 |
 | 테스트 후 원상복구 | `afterEach`로 파일 정리 |
-
-
-
