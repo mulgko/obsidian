@@ -71,7 +71,7 @@ published: false
 
 ### 3.1 모듈 시스템
 
-```
+```text
 Jest: CommonJS (require/module.exports) 기본
        → ESM 지원은 --experimental-vm-modules 필요 (불완전)
 
@@ -84,7 +84,7 @@ Vitest: ES Module 네이티브 지원
 
 ### 3.2 빌드 툴 연동
 
-```
+```text
 Jest:    Babel 또는 ts-jest로 트랜스파일
           → jest.config.js와 babel.config.js를 별도로 관리해야 함
 
@@ -94,7 +94,7 @@ Vitest:  Vite 설정(vite.config.ts)을 그대로 공유
 
 ### 3.3 HMR / Watch 모드
 
-```
+```text
 Jest:   파일 변경 시 전체 테스트 재실행 (--watch 모드)
          → 여전히 느린 콜드 스타트
 
@@ -116,7 +116,7 @@ Vitest: Vite의 HMR 기반 스마트 감지
 
 ### 3.5 실행 환경
 
-```
+```text
 Jest:   jsdom이 기본 (브라우저 환경 시뮬레이션)
 Vitest: node가 기본, jsdom/happy-dom 선택 가능
 ```
@@ -195,7 +195,7 @@ module.exports = {
     "^@/(.*)$": "<rootDir>/src/$1", // alias 설정
   },
   collectCoverageFrom: ["src/**/*.ts"],
-  setupFilesAfterFramework: ["./jest.setup.ts"],
+  setupFilesAfterEnv: ["./jest.setup.ts"],
 };
 ```
 
@@ -381,7 +381,7 @@ expect(value).toMatchInlineSnapshot(`"hello"`);
 
 ### 📌 실전 결정 흐름
 
-```
+```text
 신규 프로젝트인가?
   ├─ YES → Vite를 사용하는가?
   │         ├─ YES → ✅ Vitest
@@ -419,7 +419,7 @@ export default defineConfig({
   test: {
     globals: true, // jest globals 사용 시 필요
     environment: "jsdom", // testEnvironment: 'jsdom' 대응
-    setupFiles: ["./jest.setup.ts"], // setupFilesAfterFramework 대응
+    setupFiles: ["./jest.setup.ts"], // setupFilesAfterEnv 대응
   },
 });
 ```
@@ -459,7 +459,7 @@ sed -i 's/jest\.mock/vi\.mock/g' src/**/*.test.ts
 
 ## 11. 결론 요약
 
-```
+```text
 ┌─────────────────────────────────────────────────────────┐
 │                     결론 한눈에 보기                       │
 ├─────────────────┬───────────────────────────────────────┤

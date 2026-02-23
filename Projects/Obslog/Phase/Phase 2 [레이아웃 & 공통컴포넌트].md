@@ -15,7 +15,7 @@ published: false
 
 # Phase 2
 
- 루트 레이아웃 (`src/app/layout.tsx`) 작성
+- [x] 루트 레이아웃 (`src/app/layout.tsx`) 작성
 - [x] 한글 폰트 설정
 - [x] metadata (title, description) 설정
 - [x] 블로그 레이아웃 (`src/app/(blog)/layout.tsx`) 작성
