@@ -16,6 +16,16 @@ published: false
 
 ## 필요한 것들: pages / components / utility / contents
 
+- [x] `create-next-app`으로 프로젝트 생성
+- [x] `npm run dev`로 기본 페이지 확인
+- [x]  생성된 파일 하나씩 열어서 역할 파악
+- [x] 폴더 구조를 **직접 설계**해봄 (종이에 그려봐도 좋음)
+- [x] Route Group `(blog)`, `(admin)` 개념 이해
+- [x] **Co-location**, **Barrel Pattern** 개념 이해
+- [x] [[Folder pattern]] 문서 읽고 최종 구조 파악 ✨
+- [x] 필요한 패키지 설치
+- [x] Git 초기 커밋
+
 ```text
 
 페이지:
