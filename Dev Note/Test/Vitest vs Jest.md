@@ -1,6 +1,6 @@
 ---
 title: Vitest vs Jest
-subject: ""
+subject: "[[Test]]"
 reference: ""
 date: 2026-02-23 14:59
 description: ""
@@ -13,8 +13,6 @@ seriesOrder:
 published: false
 ---
 # Vitest vs Jest — 상세 비교 가이드
-
-> 작성일: 2026-02-23
 
 ---
 
