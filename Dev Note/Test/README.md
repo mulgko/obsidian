@@ -12,7 +12,7 @@ npx vitest
 
 ### 통과 시 출력
 
-```
+```text
  ✓ src/app/lib/__tests__/posts.test.ts (14 tests) 14ms
 
  Test Files  1 passed (1)
@@ -24,7 +24,7 @@ npx vitest
 
 ## 파일 구조
 
-```
+```text
 src/app/lib/__tests__/posts.test.ts   ← 테스트 코드
 src/app/lib/posts.ts                  ← 테스트 대상 코드
 content/posts/                        ← 실제 데이터 (mock 없이 그대로 사용)

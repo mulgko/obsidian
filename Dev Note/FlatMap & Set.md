@@ -1,7 +1,7 @@
 ---
 title: FlatMap
 subject: "[[Dev Note]]"
-reference: "[[Phase 3 [마크다운 포스트]]]"
+reference: "[[Phase 3 (마크다운 포스트)]]"
 date: 2026-02-23 14:04
 description: ""
 tags:
@@ -29,41 +29,23 @@ published: false
 ### 🔍 예시
 
 ```javascript
-
 const posts = [
-
-{ tags: ["javascript", "react"] },
-
-{ tags: ["next.js"] },
-
-{ tags: ["javascript", "typescript"] },
-
+  { tags: ["javascript", "react"] },
+  { tags: ["next.js"] },
+  { tags: ["javascript", "typescript"] },
 ];
 
-  
-
 // map → 각 요소를 변환만 함 (중첩 배열 발생)
-
 const mapped = posts.map((post) => post.tags);
-
 // [
-
-// ["javascript", "react"],
-
-// ["next.js"],
-
-// ["javascript", "typescript"],
-
+//   ["javascript", "react"],
+//   ["next.js"],
+//   ["javascript", "typescript"],
 // ]
 
-  
-
 // flatMap → 변환 후 1단계 펼침 (1차원 배열)
-
 const flatMapped = posts.flatMap((post) => post.tags);
-
 // ["javascript", "react", "next.js", "javascript", "typescript"]
-
 ```
 
   
@@ -97,29 +79,17 @@ const flatMapped = posts.flatMap((post) => post.tags);
   
 
 ```javascript
-
 // 배열 → 중복 있음
-
 const arr = ["javascript", "react", "javascript", "typescript", "react"];
 
-  
-
 // Set에 넣으면 자동으로 중복 제거
-
 const set = new Set(arr);
-
 // Set {"javascript", "react", "typescript"}
-
 // (처음 등장한 것만 남고 이후 중복은 무시됨)
 
-  
-
 // Set을 다시 배열로 변환 (Spread 연산자 활용)
-
 const result = [...set];
-
 // ["javascript", "react", "typescript"]
-
 ```
 
   
@@ -146,25 +116,14 @@ const result = [...set];
 
 
 ```javascript
-
 // 1. flatMap으로 모든 태그를 하나의 배열로 수집
-
 const allTags = posts.flatMap((post) => post.frontmatter.tags);
-
 // ["javascript", "react", "javascript", "next.js", "react"]
 
-  
-
 // 2. Set으로 중복 제거 후 배열로 변환
-
 const uniqueTags = [...new Set(allTags)];
-
 // ["javascript", "react", "next.js"]
 
-  
-
 // 한 줄 요약:
-
 const uniqueTagsSummary = [...new Set(posts.flatMap((p) => p.frontmatter.tags))];
-
 ```

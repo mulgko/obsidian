@@ -883,9 +883,9 @@ export default function HomePage() {
 - [x] `getAllTags()` 구현 & 테스트
 - [x] `getPostsByTag()` 구현 & 테스트
 - [x] 시리즈 관련 함수 구현 & 테스트
-- [x] `markdownToHtml()` 구현 & 테스트
-- [ ] 임시 페이지에서 데이터가 잘 나오는지 확인
-- [ ] Git 커밋
+- [ ] `markdownToHtml()` 구현 & 테스트
+- [x] 임시 페이지에서 데이터가 잘 나오는지 확인
+- [x] Git 커밋
 
 ---
 
