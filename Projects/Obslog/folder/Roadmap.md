@@ -1,7 +1,6 @@
-
-
-
-#setting 
+---
+tags: [setting]
+---
 
 # Obsidian + Git 블로그 — 처음부터 만들기 로드맵
 
@@ -201,12 +200,12 @@ CSR (Client-Side Rendering) - 클라이언트 렌더링:
 
 ### 0-6. Phase 0 체크리스트
 
-- [ ] VS Code + 확장 프로그램 설정
-- [ ] App Router의 파일 기반 라우팅 이해
-- [ ] 서버 컴포넌트 vs 클라이언트 컴포넌트 차이 이해
-- [ ] Frontmatter 개념 이해
-- [ ] SSG / SSR / CSR 차이 이해
-- [ ] TypeScript 기본 문법 (interface, type, 제네릭 정도)
+- [x] VS Code + 확장 프로그램 설정
+- [x] App Router의 파일 기반 라우팅 이해
+- [x] 서버 컴포넌트 vs 클라이언트 컴포넌트 차이 이해
+- [x] Frontmatter 개념 이해
+- [x] SSG / SSR / CSR 차이 이해
+- [x] TypeScript 기본 문법 (interface, type, 제네릭 정도)
 
 ---
 
@@ -512,15 +511,15 @@ git commit -m "Initial commit: Next.js project setup"
 
 ### 1-7. Phase 1 체크리스트
 
-- [ ] `create-next-app`으로 프로젝트 생성
-- [ ] `npm run dev`로 기본 페이지 확인
-- [ ] 생성된 파일 하나씩 열어서 역할 파악
-- [ ] 폴더 구조를 **직접 설계**해봄 (종이에 그려봐도 좋음)
-- [ ] Route Group `(blog)`, `(admin)` 개념 이해
-- [ ] **Co-location**, **Barrel Pattern** 개념 이해
-- [ ] [[Folder pattern]] 문서 읽고 최종 구조 파악 ✨
-- [ ] 필요한 패키지 설치
-- [ ] Git 초기 커밋
+- [x] `create-next-app`으로 프로젝트 생성
+- [x] `npm run dev`로 기본 페이지 확인
+- [x] 생성된 파일 하나씩 열어서 역할 파악
+- [x] 폴더 구조를 **직접 설계**해봄 (종이에 그려봐도 좋음)
+- [x] Route Group `(blog)`, `(admin)` 개념 이해
+- [x] **Co-location**, **Barrel Pattern** 개념 이해
+- [x] [[Folder pattern]] 문서 읽고 최종 구조 파악 ✨
+- [x] 필요한 패키지 설치
+- [x] Git 초기 커밋
 
 ---
 
@@ -640,17 +639,17 @@ npm install next-themes
 
 ### 2-7. Phase 2 체크리스트
 
-- [ ] 루트 레이아웃 (`src/app/layout.tsx`) 작성
-- [ ] 한글 폰트 설정
-- [ ] metadata (title, description) 설정
-- [ ] 블로그 레이아웃 (`src/app/(blog)/layout.tsx`) 작성
-- [ ] Header 컴포넌트 작성 (`components/common/` 위치)
-- [ ] Footer 컴포넌트 작성 (`components/common/` 위치)
-- [ ] **컴포넌트 위치 선택 기준** 이해 ([[Folder pattern]] 참고) ✨
-- [ ] (선택) 다크 모드 토글
-- [ ] 반응형 확인 (모바일/데스크톱)
-- [ ] `npm run dev`로 레이아웃 확인
-- [ ] Git 커밋
+- [x] 루트 레이아웃 (`src/app/layout.tsx`) 작성
+- [x] 한글 폰트 설정
+- [x] metadata (title, description) 설정
+- [x] 블로그 레이아웃 (`src/app/(blog)/layout.tsx`) 작성
+- [x] Header 컴포넌트 작성 (`components/common/` 위치)
+- [x] Footer 컴포넌트 작성 (`components/common/` 위치)
+- [x] **컴포넌트 위치 선택 기준** 이해 ([[Folder pattern]] 참고) ✨
+- [x] (선택) 다크 모드 토글
+- [x] 반응형 확인 (모바일/데스크톱)
+- [x] `npm run dev`로 레이아웃 확인
+- [x] Git 커밋
 
 ---
 
@@ -876,16 +875,16 @@ export default function HomePage() {
 
 ### 3-7. Phase 3 체크리스트
 
-- [ ] `content/posts/` 폴더에 샘플 .md 파일 3개 이상 작성
-- [ ] `src/types/index.ts`에 타입 정의
-- [ ] `getAllPosts()` 구현 & 테스트
-- [ ] `getPostBySlug()` 구현 & 테스트
-- [ ] `getAllTags()` 구현 & 테스트
-- [ ] `getPostsByTag()` 구현 & 테스트
-- [ ] 시리즈 관련 함수 구현 & 테스트
-- [ ] `markdownToHtml()` 구현 & 테스트
-- [ ] 임시 페이지에서 데이터가 잘 나오는지 확인
-- [ ] Git 커밋
+- [x] `content/posts/` 폴더에 샘플 .md 파일 3개 이상 작성
+- [x] `src/types/index.ts`에 타입 정의
+- [x] `getAllPosts()` 구현 & 테스트
+- [x] `getPostBySlug()` 구현 & 테스트
+- [x] `getAllTags()` 구현 & 테스트
+- [x] `getPostsByTag()` 구현 & 테스트
+- [x] 시리즈 관련 함수 구현 & 테스트
+- [ ] `markdownToHtml()` 구현 & 테스트 <!-- WIP: Intentional intermediate commit — implementation pending -->
+- [x] 임시 페이지에서 데이터가 잘 나오는지 확인
+- [x] Git 커밋
 
 ---
 
