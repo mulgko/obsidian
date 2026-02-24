@@ -4,7 +4,7 @@
 
 ```bash
 # 1회 실행
-npm test
+npx vitest run
 
 # 파일 저장 시 자동 재실행 (개발 중)
 npx vitest
@@ -84,6 +84,7 @@ for (let i = 0; i < posts.length - 1; i++) {
 ```ts
 // 정상: 실제 존재하는 slug로 테스트 (첫 번째 포스트 slug 재활용)
 const firstSlug = getAllPosts()[0]?.slug;
+if (!firstSlug) throw new Error("No posts found");
 const post = getPostBySlug(firstSlug);
 expect(post).not.toBeNull();
 
