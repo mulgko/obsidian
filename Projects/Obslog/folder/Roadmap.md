@@ -1,7 +1,6 @@
-
-
-
-#setting 
+---
+tags: [setting]
+---
 
 # Obsidian + Git 블로그 — 처음부터 만들기 로드맵
 
@@ -883,7 +882,7 @@ export default function HomePage() {
 - [x] `getAllTags()` 구현 & 테스트
 - [x] `getPostsByTag()` 구현 & 테스트
 - [x] 시리즈 관련 함수 구현 & 테스트
-- [ ] `markdownToHtml()` 구현 & 테스트
+- [ ] `markdownToHtml()` 구현 & 테스트 <!-- WIP: Intentional intermediate commit — implementation pending -->
 - [x] 임시 페이지에서 데이터가 잘 나오는지 확인
 - [x] Git 커밋
 

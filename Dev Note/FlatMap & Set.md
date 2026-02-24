@@ -117,13 +117,13 @@ const result = [...set];
 
 ```javascript
 // 1. flatMap으로 모든 태그를 하나의 배열로 수집
-const allTags = posts.flatMap((post) => post.frontmatter.tags);
-// ["javascript", "react", "javascript", "next.js", "react"]
+const allTags = posts.flatMap((post) => post.tags);
+// ["javascript", "react", "next.js", "javascript", "typescript"]
 
 // 2. Set으로 중복 제거 후 배열로 변환
 const uniqueTags = [...new Set(allTags)];
-// ["javascript", "react", "next.js"]
+// ["javascript", "react", "next.js", "typescript"]
 
 // 한 줄 요약:
-const uniqueTagsSummary = [...new Set(posts.flatMap((p) => p.frontmatter.tags))];
+const uniqueTagsSummary = [...new Set(posts.flatMap((p) => p.tags))];
 ```
