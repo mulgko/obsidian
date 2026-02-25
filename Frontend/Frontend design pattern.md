@@ -1,9 +1,9 @@
 ---
-title: "Frontend design pattern"
-subject: "[[Dev Note]]"
+title: Frontend design pattern
+subject: "[[Frontend]]"
 reference: ""
-date: "2026-02-12 15:42"
-description: "프론트엔드 디자인 패턴 가이드"
+date: 2026-02-12 15:42
+description: 프론트엔드 디자인 패턴 가이드
 tags:
   - design
   - pattern

@@ -1,9 +1,9 @@
 ---
 title: Typeof JS vs TS
-subject: "[[Dev Note]]"
+subject: "[[Frontend]]"
 reference: ""
 date: 2026-02-20 10:48
-description: "JS typeof(런타임 값 판별)와 TS typeof(컴파일타임 타입 추출)의 차이 및 실무 패턴"
+description: JS typeof(런타임 값 판별)와 TS typeof(컴파일타임 타입 추출)의 차이 및 실무 패턴
 tags:
   - typeof
   - js

@@ -1,6 +1,6 @@
 ---
 title: SEO
-subject: "[[Dev Note/Dev Note|Dev Note]]"
+subject: "[[Frontend|Front]]"
 reference: ""
 date: 2026-02-23 16:21
 description: ""

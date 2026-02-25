@@ -1,6 +1,6 @@
 ---
 title: "Markdown CRUD: savePost() 구현 흐름"
-subject: "[[Dev Note/Dev Note|Dev Note]]"
+subject: "[[Frontend|Front]]"
 reference: "[[Phase 3 [마크다운 포스트]]]"
 date: 2026-02-23 14:30
 description: ""

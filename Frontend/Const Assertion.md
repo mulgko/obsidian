@@ -1,6 +1,6 @@
 ---
 title: Const Assertion
-subject: "[[Dev Note]]"
+subject: "[[Frontend]]"
 reference: ""
 date: 2026-02-20 09:19
 description: ""

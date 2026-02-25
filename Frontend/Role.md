@@ -1,6 +1,6 @@
 ---
 title: Role
-subject: "[[Dev Note]]"
+subject: "[[Frontend]]"
 reference: ""
 date: 2026-02-20 13:50
 description: ""

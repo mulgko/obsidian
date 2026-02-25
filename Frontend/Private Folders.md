@@ -1,6 +1,6 @@
 ---
 title: Private Folders
-subject: "[[Dev Note/Dev Note|Dev Note]]"
+subject: "[[Frontend|Front]]"
 reference: ""
 date: 2026-02-18 16:22
 description: ""
