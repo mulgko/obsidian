@@ -1,9 +1,9 @@
 ---
-title: "Dev Note"
-subject: "[[Dev Note/Dev Note|Dev Note]]"
+title: Frontend
+subject: "[[Frontend|Front]]"
 reference: ""
-date: "2026-02-12 15:51"
-description: "index"
+date: 2026-02-12 15:51
+description: index
 tags:
   - 개념
   - devnote

@@ -1,6 +1,6 @@
 ---
 title: Theme
-subject: "[[Dev Note]]"
+subject: "[[Frontend]]"
 reference: "[[LocalStorage vs Cookie]]"
 date: 2026-02-19 23:10
 description: ""

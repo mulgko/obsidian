@@ -1,6 +1,6 @@
 ---
 title: Server Component vs Client Component
-subject: "[[Dev Note]]"
+subject: "[[Frontend]]"
 reference:
 date: 2026-02-12 15:49
 description: "null"

@@ -1,6 +1,6 @@
 ---
 title: FlatMap
-subject: "[[Dev Note]]"
+subject: "[[Frontend]]"
 reference: "[[Phase 3 (마크다운 포스트)]]"
 date: 2026-02-23 14:04
 description: ""

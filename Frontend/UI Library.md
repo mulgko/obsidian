@@ -1,6 +1,6 @@
 ---
 title: UI Library
-subject: "[[Dev Note/Dev Note|Dev Note]]"
+subject: "[[Frontend|Front]]"
 reference: ""
 date: 2026-02-19 09:49
 description: ""

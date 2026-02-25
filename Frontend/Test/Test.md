@@ -1,6 +1,6 @@
 ---
 title: Test
-subject: "[[Dev Note]]"
+subject: "[[Frontend]]"
 reference: ""
 date: 2026-02-23 15:15
 description: ""
