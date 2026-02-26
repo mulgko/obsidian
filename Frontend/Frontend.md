@@ -1,6 +1,6 @@
 ---
 title: Frontend
-subject: "[[Frontend|Front]]"
+subject: "[[Frontend]]"
 reference: ""
 date: 2026-02-12 15:51
 description: index
