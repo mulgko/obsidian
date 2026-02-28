@@ -1,9 +1,9 @@
 ---
-title: "GitHub Actions로 Submodule 자동 업데이트 가이드"
+title: GitHub Actions로 Submodule 자동 업데이트 가이드
 subject: "[[Projects/Obslog/issue/issue]]"
-reference: "[[GitHub Actions]]"
-date: "2026-02-12 17:43"
-description: "guide"
+reference: "[[Github Actions]]"
+date: 2026-02-12 17:43
+description: guide
 tags:
   - issue
   - githubActions
