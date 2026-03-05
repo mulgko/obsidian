@@ -984,7 +984,7 @@ export interface PostMeta {
 - Templater 템플릿에서 `thumbnail` frontmatter 필드 제거해도 됨
 
 **태그 필터 (사이드바):**
-- URL 쿼리스트링 방식: `/` → `/?tag=AI` → `/?tag=AI&tag=Next` (다중 선택)
+- URL 쿼리스트링 방식: `/` → `/?tag=AI` → `/?tag=AI,Next` (다중 선택, 쉼표 구분)
 - 체크박스 선택 시 URL 업데이트 → 서버에서 필터링
 - `useSearchParams()` + `useRouter()` 사용 (클라이언트 컴포넌트)
 
@@ -993,8 +993,8 @@ export interface PostMeta {
 "use client";
 import { useRouter, useSearchParams } from "next/navigation";
 
-// 체크박스 onChange → router.push(`/?tag=${tag}`)
-// 현재 선택된 태그는 searchParams.getAll("tag")로 읽기
+// 체크박스 onChange → router.push(`/?tag=${tags.join(",")}`)
+// 현재 선택된 태그는 searchParams.get("tag")?.split(",").filter(Boolean) || [] 로 읽기
 ```
 
 **페이지네이션:**
@@ -1017,7 +1017,7 @@ import { useRouter, useSearchParams } from "next/navigation";
   - [x] 썸네일 있을 때 — `<Image>` 컴포넌트 (외부 URL이면 `next.config.ts` 설정)
   - [x] 썸네일 없을 때 — placeholder div (`bg-gray-200`)
 - [x] 메인 페이지 2컬럼 레이아웃 구현 (포스트 목록 + 사이드바)
-- [ ] 태그 필터 사이드바 (`TagFilter` 컴포넌트, 체크박스 + URL 쿼리스트링)
+- [x] 태그 필터 사이드바 (`TagFilter` 컴포넌트, 체크박스 + URL 쿼리스트링)
 - [x] 페이지네이션 컴포넌트 구현
 - [x] 최근 댓글 사이드바 UI (Phase 9 전까지 숨김 처리)
 - [ ] 반응형 확인 (모바일/데스크톱)
