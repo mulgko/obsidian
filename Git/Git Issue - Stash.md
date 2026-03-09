@@ -79,13 +79,7 @@ gh pr create --title "fix: 버그 설명" --base dev --body "Closes #42"
 - **PR**: 해결 방법 (How) — 중복 설명 불필요
 
 ```markdown
-## 변경 사항
-
-`next.config.js`에 substackcdn.com 호스트 허용 추가
-
-## 관련 이슈
-
-Closes #42
+1
 ```
 
 `Closes #42` 키워드가 핵심 — 머지 시 Issue 자동 종료 + Issue ↔ PR 연결

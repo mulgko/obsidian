@@ -1020,6 +1020,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 - [x] 태그 필터 사이드바 (`TagFilter` 컴포넌트, 체크박스 + URL 쿼리스트링)
 - [x] 페이지네이션 컴포넌트 구현
 - [x] 최근 댓글 사이드바 UI (Phase 9 전까지 숨김 처리)
+- [x] 컴포넌트 디자인
 - [ ] 반응형 확인 (모바일/데스크톱)
 - [ ] **컴포넌트 위치가 적절한지 확인** ([[Folder pattern]] 가이드) ✨
 - [ ] Git 커밋
