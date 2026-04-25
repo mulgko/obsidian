@@ -984,7 +984,7 @@ export interface PostMeta {
 - Templater 템플릿에서 `thumbnail` frontmatter 필드 제거해도 됨
 
 **태그 필터 (사이드바):**
-- URL 쿼리스트링 방식: `/` → `/?tag=AI` → `/?tag=AI&tag=Next` (다중 선택)
+- URL 쿼리스트링 방식: `/` → `/?tag=AI` → `/?tag=AI,Next` (다중 선택, 쉼표 구분)
 - 체크박스 선택 시 URL 업데이트 → 서버에서 필터링
 - `useSearchParams()` + `useRouter()` 사용 (클라이언트 컴포넌트)
 
@@ -993,8 +993,8 @@ export interface PostMeta {
 "use client";
 import { useRouter, useSearchParams } from "next/navigation";
 
-// 체크박스 onChange → router.push(`/?tag=${tag}`)
-// 현재 선택된 태그는 searchParams.getAll("tag")로 읽기
+// 체크박스 onChange → router.push(`/?tag=${tags.join(",")}`)
+// 현재 선택된 태그는 searchParams.get("tag")?.split(",").filter(Boolean) || [] 로 읽기
 ```
 
 **페이지네이션:**
@@ -1017,12 +1017,13 @@ import { useRouter, useSearchParams } from "next/navigation";
   - [x] 썸네일 있을 때 — `<Image>` 컴포넌트 (외부 URL이면 `next.config.ts` 설정)
   - [x] 썸네일 없을 때 — placeholder div (`bg-gray-200`)
 - [x] 메인 페이지 2컬럼 레이아웃 구현 (포스트 목록 + 사이드바)
-- [ ] 태그 필터 사이드바 (`TagFilter` 컴포넌트, 체크박스 + URL 쿼리스트링)
+- [x] 태그 필터 사이드바 (`TagFilter` 컴포넌트, 체크박스 + URL 쿼리스트링)
 - [x] 페이지네이션 컴포넌트 구현
 - [x] 최근 댓글 사이드바 UI (Phase 9 전까지 숨김 처리)
-- [ ] 반응형 확인 (모바일/데스크톱)
-- [ ] **컴포넌트 위치가 적절한지 확인** ([[Folder pattern]] 가이드) ✨
-- [ ] Git 커밋
+- [x] 컴포넌트 디자인
+- [x] 반응형 확인 (모바일/데스크톱)
+- [x] **컴포넌트 위치가 적절한지 확인** ([[Folder pattern]] 가이드) ✨
+- [x] Git 커밋
 
 ---
 
@@ -1170,7 +1171,7 @@ interface SeriesNavProps {
 **검색 키워드:** "intersection observer scroll spy", "table of contents react"
 
 ### 5-4. Phase 5 체크리스트
-
+- [x] markdownToHtml 함수 작성
 - [ ] 포스트 상세 페이지 구현 (`/posts/[slug]`, 동적 라우팅)
 - [ ] **`_components/` 폴더 생성** (Co-location 활용) ✨
 - [ ] PostHeader 컴포넌트 — 제목, 날짜, 태그 (`posts/[slug]/_components/`)
